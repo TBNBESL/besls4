@@ -1,5 +1,14 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>15-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/lock67/Desktop/EHM/profile.html" onMouseOver='window.status="2307"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Vern Bristow</a> agrees on a contract.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\lock67\Desktop\EHM\pictures\icons\5.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/lock67/Desktop/EHM/profile.html" onMouseOver='window.status="2307"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Vern Bristow</a> has signed a one year deal with the <a href="file://C|/Users/lock67/Desktop/EHM/teamprofile.html" onMouseOver='window.status="T37"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Saskatoon Greyhounds</a>. Financial terms of the deal were not announced.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>13-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Team captain meets with <a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="157"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ryan de Costa</a></font></td>
  </tr>
  <tr>
