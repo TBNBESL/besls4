@@ -1,6 +1,30 @@
 <table width=90% border=1>
  <tr>
   <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>30-1-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T1"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Austin Marauders</a> called up <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="13"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Woodley</a> from San Antonio Rollers (e)</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>30-1-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T1"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Austin Marauders</a> placed <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="201"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Shane Kelley</a> on waivers.</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>30-1-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T1"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Austin Marauders</a> sent down <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="201"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Shane Kelley</a> to San Antonio Rollers</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>30-1-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T1"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Austin Marauders</a> sent down <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2374"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Casey Casper</a> to San Antonio Rollers</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>30-1-2003 </b></font></td>
   <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://G|/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T6"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Manchester Revolution</a> called up <a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2349"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Andrew Sorensen</a> from Helsinki Spirit (e)</font></td>
  </tr>
 </table>
