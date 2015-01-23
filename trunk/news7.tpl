@@ -1,5 +1,63 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>8-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+No-one is especially hot at the moment.<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="140"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Lockie Lemieux</a> is down on his game pulling a 11 game streak without registering a single point. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="149"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ben Dolman</a> has lost his sights and is now 9 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="161"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matthew Lee</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="163"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Nick Bolduc</a> has played 15 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="164"; return true' onMouseOut='window.status="No_id_here_now"; return true'>C.J. Hennighausen</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="200"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kevin MacDonald</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="211"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joseph Broderick</a> is sliding on a 32 game streak without registering a single point. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2363"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brandon McCartney</a> has lost his sights and is now 5 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>7-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="872"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Rihas Slikevics</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T7"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Mississauga Reds</a> goaltender <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="872"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Rihas Slikevics</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Latvia, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="872"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Rihas Slikevics</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, booking 0 career shutouts and allowing 0 goals. The 25 year old goaltender has not yet played for the Mississauga Reds this season.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>6-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Team captain meets with <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="726"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alec Donald</a></font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Following the team's recent 3-1 loss at London Wolves on 4-2-2003, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T7"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Mississauga Reds</a> captain <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="149"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ben Dolman</a> and <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="726"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alec Donald</a> did not leave the bench after the game for a while. <i>I wanted to go over some things that have been troubling his game lately</i>, said <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="149"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ben Dolman</a></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>6-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Team captain meets with <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="870"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Adam Danton</a></font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Team captain <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="149"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ben Dolman</a> called a short meeting with <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="870"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Adam Danton</a> after practice today to discuss some issues that have affected his play. <i>I guess they needed someone to take the blame...</i>, said <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="870"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Adam Danton</a> as he left the ice, <i>...but I'll take it like a man</i></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>5-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="873"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Patrick Walford</a> frustrated</font></td>
  </tr>
  <tr>

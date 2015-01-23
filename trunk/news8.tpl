@@ -1,5 +1,75 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>8-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Player of the week: <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="182"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Phil Alkievicz</a> (C)</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\8.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>NHL has awarded <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="182"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Phil Alkievicz</a> (C) of <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T8"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Montreal Bears</a> as Player Of The Week
+
+He registered 1 goals and 5 assists for 6 points in 2 games last week.
+
+He also had 1 game winning goal.<br><br> A native of Poland, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="182"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Phil Alkievicz</a>, was originally signed as a free agent to the NHL. He has appeared in 138 NHL games during his career, notching 11 goals and adding 19 assists along with 41 penalty minutes. The 24 year old center has played 38 games with the Montreal Bears this season, totalling 11+19=30 with 41 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>8-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="168"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Smith</a> is looking good with 3 points in 2 games last week. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="180"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kristian Olofsson</a> is looking good with 5 points in 2 games last week. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="182"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Phil Alkievicz</a> is looking good with a 5 game point scoring streak with 1 game goalstreak. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2346"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Santi Piñeiro</a> is looking good with 3 points in 2 games last week. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="88"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Douglas Neveu</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="109"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Shaun Mahe</a> has lost his sights and is now 37 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="175"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Reinis Lillais</a> has played 37 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="190"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Kociuba</a> has lost his sights and is now 9 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="191"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Iusi</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="253"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ilya Sarin</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="918"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Adam Obertan</a> has been a healthy scratch in his last five games. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2370"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Janis Robežs</a> remains sidelined with ankle injury. 
+
+<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>7-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="899"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Martin Kraina</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T8"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Montreal Bears</a> goaltender <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="899"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Martin Kraina</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Czech, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="899"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Martin Kraina</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, booking 0 career shutouts and allowing 0 goals. The 25 year old goaltender has not yet played for the Montreal Bears this season.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>6-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Team captain meets with <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="242"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Nick Becker</a></font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Following the team's recent 3-4 win at Brisbane Clippers on 4-2-2003, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T8"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Montreal Bears</a> captain <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="180"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kristian Olofsson</a> and <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="242"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Nick Becker</a> were seen outside the dressing room going over some things. <i>He has had some trouble chipping in, so I thought it was time for a little chat</i>, said <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="180"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kristian Olofsson</a></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>1-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
  </tr>
  <tr>

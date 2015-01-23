@@ -1,5 +1,51 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>8-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+No-one is especially hot at the moment.<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="54"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Eddy Kempff</a> has been chilly and allowed 8 goals in 2 games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="214"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Mininni</a> has lost his sights and is now 9 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="226"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brian Harrison</a> has lost his sights and is now 9 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="265"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Freddy Doll</a> has lost his sights and is now 10 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="266"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Henry Kruell</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="275"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Mambo-Franzmeier</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="284"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Miikka Karppinen</a> has lost his sights and is now 27 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="896"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Justin Castleman</a> has played 37 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="916"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ernie Rubottom</a> has played 16 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="993"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Krists Zommers</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2326"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Fennell</a> has been a healthy scratch in his last five games. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>6-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="1008"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brendan Glenwright</a> resumes full training.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Duluth-Superior Northerners right wing <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="1008"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brendan Glenwright</a> has resumed full training after his thigh injury.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>5-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="288"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brandon McGraw</a> frustrated</font></td>
  </tr>
  <tr>

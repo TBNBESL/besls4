@@ -1,5 +1,55 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>8-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+No-one is especially hot at the moment.<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="17"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Timo Toivonen</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="24"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chayson Millar</a> has lost his sights and is now 27 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="75"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Aelred Leskowsky</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="89"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tom Corcoran</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="192"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Wandrille Leskowsky</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="276"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Placido</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="282"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Gosselin</a> has lost his sights and is now 13 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="780"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Farrell</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="795"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ben Prengel</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2344"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Oliver Hayden</a> has played 12 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2361"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Seppo Valtama</a> has lost his sights and is now 10 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="73"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Dom Augustine</a> remains sidelined with groin injury. 
+
+<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>7-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="73"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Dom Augustine</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="73"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Dom Augustine</a> (KAZ) suffered groin injury during the game in an incident with <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="125"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Reynolds</a> (BRK).
+
+He is expected to be sidelined for a couple of days. <i>This is a rough game and injuries happen, lucky for me that this one is not serious</i>, he said while limping toward the dressing room.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>4-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="96"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Terry Porter</a> frustrated</font></td>
  </tr>
  <tr>

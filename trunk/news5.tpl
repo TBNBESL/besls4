@@ -1,5 +1,51 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>8-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="100"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Adam Stark</a> is looking red hot with a 6 game point streak. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="256"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Mihai Coman</a> is looking good with 3 points in 2 games last week. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="264"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Dairis Geida</a> is looking good with a 4 game point scoring streak with 2 game goalstreak. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="99"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Emiliano Gianino</a> has played 47 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="103"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matej Krnoul</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="106"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joey Bowen</a> has lost his sights and is now 18 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="108"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Pepe Gringolaza</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="118"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Rob Lafleur</a> has lost his sights and is now 17 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="194"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Delryk Levesque</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="819"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Morgan Smith</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="848"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ioseph Leskowsky</a> hasn't got a chance to start in the last five games. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>6-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="114"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Amirudin Fauzi</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T5"; return true' onMouseOut='window.status="No_id_here_now"; return true'>London Wolves</a> center <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="114"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Amirudin Fauzi</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of La-la-land, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="114"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Amirudin Fauzi</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 25 year old center has not yet played for the London Wolves this season. He has played 38 games with the Castlegar Castors this season, totalling 21+34=55 with 12 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>3-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="117"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Richard Nash</a> frustrated</font></td>
  </tr>
  <tr>
