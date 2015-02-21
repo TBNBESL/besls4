@@ -1,5 +1,14 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>18-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>World Championships 2003</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Icehockey World Championships 2003 in Ukraine start in just two days. There are 16 nations battling for the championship in the following two weeks. Many believe that the team of Russia will make a good run for the gold.<br><br> Here are the starting groups:<br><font face="" size=1><table width=90% font size=-1><tr><td><font size=1><b>Group A</b></td><td><font size=1><b>Group B</b></td></tr><tr><td><font size=1>Switzerland<br>Canada<br>France<br>Italy<br></td><td><font size=1>Czech<br>Russia<br>Slovenia<br>Germany<br></td></tr><td><font size=1><b>Group C</b></td><td><font size=1><b>Group D</b></td></tr><tr><td><font size=1>Sweden<br>USA<br>Belarussia<br>Latvia<br></td><td><font size=1>Slovakia<br>Finland<br>Poland<br>Japan<br></td></tr></table></font></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>13-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="410"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ted Smith</a> agrees on a contract with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T18"; return true' onMouseOut='window.status="No_id_here_now"; return true'>New York Rangers</a>.</font></td>
  </tr>
  <tr>
