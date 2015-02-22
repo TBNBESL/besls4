@@ -1,5 +1,77 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>20-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="969"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Klavs Bosh</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T11"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Stockholm Aeros</a> goaltender <a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="969"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Klavs Bosh</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Latvia, <a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="969"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Klavs Bosh</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, booking 0 career shutouts and allowing 0 goals. The 25 year old goaltender has not yet played for the Stockholm Aeros this season.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>20-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="247"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kristian Marosi</a> resumes light training.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Stockholm Aeros right wing <a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="247"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kristian Marosi</a> has resumed light training after his arm injury and is listed day to day.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>20-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="247"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kristian Marosi</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files\Eastside Hockey Manager\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="247"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kristian Marosi</a> (STK) suffered arm injury during the game in an incident with <a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2364"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jake Owenes</a> (BRK).
+
+He is expected to be sidelined for about a week. <i>Injuries are a part of the game, I'm just happy it's not too serious</i>, he quoted before being taken to the hospital for tests.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>19-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="105"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Mattias Svensson</a> is looking good with 2 points in 1 games last week. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="112"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Zachary Alexander</a> is looking good with a 3 game point scoring streak with 1 game goalstreak. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="245"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Dušan Strašila</a> is looking good with 2 points in 1 games last week. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="247"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kristian Marosi</a> is looking good with 2 points in 1 games last week. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2402"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcus Lindholm</a> is looking good with 3 points in 1 games last week. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="20"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Konstantin Kuehn</a> has lost his sights and is now 15 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="195"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tuukka Aaltonen</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="251"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Fredrik Hammarbäck</a> has lost his sights and is now 9 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="252"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Markus Helldorfer</a> has played 12 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="254"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jacob Haraldsson</a> has lost his sights and is now 23 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="261"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Antti Kuittinen</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="262"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kenneth Lehtinen</a> has lost his sights and is now 7 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="772"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christopher Wong</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="919"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Charles Meeker</a> hasn't got a chance to start in the last five games. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>18-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T11"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Stockholm Aeros</a> players selected to World Championships</font></td>
  </tr>
  <tr>

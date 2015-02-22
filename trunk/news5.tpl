@@ -1,5 +1,40 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>19-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="118"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Rob Lafleur</a> is looking good with a 4 game point scoring streak with 1 game goalstreak. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="97"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ken Meredith</a> has played 14 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="99"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Emiliano Gianino</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="103"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matej Krnoul</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="119"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Rocky Nijjer</a> has lost his sights and is now 7 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="126"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Devin Duhn</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="264"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Dairis Geida</a> has lost his sights and is now 12 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="819"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Morgan Smith</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="848"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ioseph Leskowsky</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2354"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Martin Roldan</a> has lost his sights and is now 5 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>17-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Playoff series preview</font></td>
  </tr>
  <tr>
