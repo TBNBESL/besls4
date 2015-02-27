@@ -1,5 +1,32 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>26-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Playoff news</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T11"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Stockholm Aeros</a> have won their series against the <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T3"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brooklyn Admirals</a>. They have been awarded $1,000,000 as prize money.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>26-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Playoff news</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T10"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Quebec Voyageurs</a> have won their series against the <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T12"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Vancouver Cascades</a>. They have been awarded $1,000,000 as prize money.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>25-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>World Championships quarterfinals</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>World Championships have reached quarterfinal stage. Here are the final standings for the starting groups.<br><font face="" size=1><table width=90% font size=-1><tr><td><font size=1><b>Group A</b></td><td><font size=1><b>PTS</b></td><td><font size=1><b>GF</b></td><td><font size=1><b>GA</b></td><td><font size=1><b>Group B</b></td><td><font size=1><b>PTS</b></td><td><font size=1><b>GF</b></td><td><font size=1><b>GA</b></td></tr><tr><td><font size=1>Canada</td><td><font size=1>6</td><td><font size=1>18</td><td><font size=1>9</td><td><font size=1>Russia</td><td><font size=1>6</td><td><font size=1>18</td><td><font size=1>9</td></tr><tr><td><font size=1>France</td><td><font size=1>2</td><td><font size=1>13</td><td><font size=1>15</td><td><font size=1>Czech</td><td><font size=1>4</td><td><font size=1>13</td><td><font size=1>12</td></tr><tr><td><font size=1>Switzerland</td><td><font size=1>2</td><td><font size=1>13</td><td><font size=1>15</td><td><font size=1>Slovenia</td><td><font size=1>2</td><td><font size=1>12</td><td><font size=1>13</td></tr><tr><td><font size=1>Italy</td><td><font size=1>2</td><td><font size=1>11</td><td><font size=1>16</td><td><font size=1>Germany</td><td><font size=1>0</td><td><font size=1>9</td><td><font size=1>18</td></tr><td><font size=1><b>Group C</b></td><td><font size=1><b>PTS</b></td><td><font size=1><b>GF</b></td><td><font size=1><b>GA</b></td><td><font size=1><b>Group D</b></td><td><font size=1><b>PTS</b></td><td><font size=1><b>GF</b></td><td><font size=1><b>GA</b></td></tr><tr><td><font size=1>USA</td><td><font size=1>6</td><td><font size=1>17</td><td><font size=1>10</td><td><font size=1>Finland</td><td><font size=1>6</td><td><font size=1>18</td><td><font size=1>9</td></tr><tr><td><font size=1>Sweden</td><td><font size=1>4</td><td><font size=1>15</td><td><font size=1>12</td><td><font size=1>Slovakia</td><td><font size=1>4</td><td><font size=1>15</td><td><font size=1>12</td></tr><tr><td><font size=1>Latvia</td><td><font size=1>2</td><td><font size=1>13</td><td><font size=1>14</td><td><font size=1>Poland</td><td><font size=1>2</td><td><font size=1>11</td><td><font size=1>16</td></tr><tr><td><font size=1>Belarussia</td><td><font size=1>0</td><td><font size=1>9</td><td><font size=1>18</td><td><font size=1>Japan</td><td><font size=1>0</td><td><font size=1>10</td><td><font size=1>17</td></tr></table></font><br>For quarterfinals, the pairs are:<br><br>Canada-Slovakia<br>Finland-France<br>Russia-Sweden<br>USA-Czech<br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>25-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>NHL nominates players for NHL Awards</font></td>
  </tr>
  <tr>
