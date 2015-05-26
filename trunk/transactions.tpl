@@ -1,5 +1,59 @@
 <table width=90% border=1>
  <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>6-10-2002 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://E|/Games/EHM116/teamprofile.html" onMouseOver='window.status="T27"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tampa Bay Lightning</a> signed UFA <a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="1269"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kevin Lombardi</a> to a 2 year deal</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>6-10-2002 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://E|/Games/EHM116/teamprofile.html" onMouseOver='window.status="T27"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tampa Bay Lightning</a> signed UFA <a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="1676"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alexandre Moreau</a> to a 3 year deal</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>6-10-2002 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://E|/Games/EHM116/teamprofile.html" onMouseOver='window.status="T28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Toronto Maple Leafs</a> signed UFA <a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="1881"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Dan Knotts</a> to a 1 year deal</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>6-10-2002 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://E|/Games/EHM116/teamprofile.html" onMouseOver='window.status="T27"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tampa Bay Lightning</a> signed UFA <a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="2226"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Steve Lalanne</a> to a 3 year deal</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>6-10-2002 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://E|/Games/EHM116/teamprofile.html" onMouseOver='window.status="T24"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Pittsburgh Penguins</a> signed RFA <a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="2313"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Mike Tyler</a> to a 1 year deal</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>6-10-2002 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://E|/Games/EHM116/teamprofile.html" onMouseOver='window.status="T24"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Pittsburgh Penguins</a> signed UFA <a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="2316"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jon Ronning</a> to a 1 year deal</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>5-10-2002 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://E|/Games/EHM116/teamprofile.html" onMouseOver='window.status="T27"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tampa Bay Lightning</a> claimed <a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="222"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marty Thompson</a>(VAN) off waivers.</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>5-10-2002 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://E|/Games/EHM116/teamprofile.html" onMouseOver='window.status="T13"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Florida Panthers</a> signed UFA <a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="1556"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joël Potvin</a> to a 3 year deal</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>5-10-2002 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://E|/Games/EHM116/teamprofile.html" onMouseOver='window.status="T27"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tampa Bay Lightning</a> signed UFA <a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="1616"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robin Giang</a> to a 3 year deal</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
   <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>4-10-2002 </b></font></td>
   <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Washington Capitals</a> signed RFA <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="1285"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marc Grandmaison</a> to a 1 year deal</font></td>
  </tr>
