@@ -1,5 +1,47 @@
 <table width=90% border=1>
  <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>8-10-2002 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://G|/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Toronto Maple Leafs</a> signed UFA <a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2298"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris McKay</a> to a 1 year deal</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>8-10-2002 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://G|/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T41"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gothenburg Royals</a> fastsigned free agent <a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2312"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Peter Ambarian</a> to a one year contract</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>7-10-2002 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://G|/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Toronto Maple Leafs</a> signed UFA <a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="1074"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Lee Roberts</a> to a 2 year deal</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>7-10-2002 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://G|/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Washington Capitals</a> signed UFA <a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="1186"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matthew Millen</a> to a 2 year deal</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>7-10-2002 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://G|/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T24"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Pittsburgh Penguins</a> signed UFA <a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="1283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jon Macias</a> to a 3 year deal</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>7-10-2002 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://G|/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T27"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tampa Bay Lightning</a> signed UFA <a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="1606"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Lew Hogue</a> to a 3 year deal</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>7-10-2002 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://G|/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Washington Capitals</a> signed UFA <a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2181"; return true' onMouseOut='window.status="No_id_here_now"; return true'>David Levison</a> to a 2 year deal</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
   <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>7-10-2002 </b></font></td>
   <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T12"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Vancouver Cascades</a> placed <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2357"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Pepe Bostones</a> on waivers.</font></td>
  </tr>
