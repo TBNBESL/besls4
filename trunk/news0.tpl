@@ -1,5 +1,16 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>10-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Player of the week: <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="57"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Moses Rabbenu</a> (C)</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\8.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>NHL has awarded <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="57"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Moses Rabbenu</a> (C) of <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T6"; return true' onMouseOut='window.status="No_id_here_now"; return true'>HC Zurich Saints</a> as Player Of The Week
+
+He registered 2 goals and 3 assists for 5 points in 2 games last week.<br><br> A native of La-la-land, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="57"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Moses Rabbenu</a>, was originally signed as a free agent to the NHL. He has appeared in 163 NHL games during his career, notching 22 goals and adding 31 assists along with 76 penalty minutes. The 24 year old center has played 12 games with the HC Zurich Saints this season, totalling 10+12=22 with 16 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>3-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Player of the week: <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Andrew Walker</a> (L)</font></td>
  </tr>
  <tr>

@@ -1,5 +1,70 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>11-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="69"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Wright</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T3"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brooklyn Admirals</a> left wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="69"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Wright</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="69"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Wright</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old left wing has not yet played for the Brooklyn Admirals this season. He has played 13 games with the Ontario-Michigan Superiors this season, totalling 8+3=11 with 26 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>11-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2397"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Elvis Zeltins</a> speaks up.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2397"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Elvis Zeltins</a> is disappointed in the team tactics after averaging 6 minutes in the last five games. He wants more icetime.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>10-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="776"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Doherty</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T3"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brooklyn Admirals</a> defenseman <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="776"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Doherty</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Canada, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="776"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Doherty</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old defenseman has not yet played for the Brooklyn Admirals this season. He has played 3 games with the Ontario-Michigan Superiors this season, totalling 0+1=1 with 7 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>10-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="779"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Andrei Venachenko</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T3"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brooklyn Admirals</a> defenseman <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="779"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Andrei Venachenko</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Russia, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="779"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Andrei Venachenko</a>, was originally signed as a free agent to the NHL. He has appeared in 129 NHL games during his career, notching 2 goals and adding 6 assists along with 12 penalty minutes. The 24 year old defenseman has not yet played for the Brooklyn Admirals this season. He has played 12 games with the Ontario-Michigan Superiors this season, totalling 1+1=2 with 28 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>10-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+No-one is especially hot at the moment.<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="5"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Michael Olson</a> has been chilly and allowed 5 goals in 1 games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="50"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matty Steele</a> has played 12 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="54"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Eddy Kempff</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="63"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Cam Wilson</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="134"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Steveo Reynolds</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="274"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Rob Sattler</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2397"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Elvis Zeltins</a> has lost his sights and is now 10 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>7-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="134"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Steveo Reynolds</a> speaks up.</font></td>
  </tr>
  <tr>

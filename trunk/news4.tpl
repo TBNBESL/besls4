@@ -1,5 +1,70 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>11-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2361"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Seppo Valtama</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2361"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Seppo Valtama</a> (REG) suffered abdomen injury during training. He is expected to be sidelined for about a week. <i>It's a team game alright, I guess I just won't be part of this team for a few games</i>, he said after the game in the dressing room.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>10-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="90"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Gill</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T4"; return true' onMouseOut='window.status="No_id_here_now"; return true'>HC Viverna Kazan</a> left wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="90"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Gill</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="90"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Gill</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old left wing has not yet played for the HC Viverna Kazan this season. He has played 7 games with the Regina Ravens this season, totalling 1+2=3 with 10 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>10-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="202"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jesse Burk</a> speaks up.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="202"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jesse Burk</a> is disappointed in the team tactics after averaging 7 minutes in the last five games. He wants more icetime.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>10-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="795"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ben Prengel</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T4"; return true' onMouseOut='window.status="No_id_here_now"; return true'>HC Viverna Kazan</a> defenseman <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="795"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ben Prengel</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Germany, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="795"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ben Prengel</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old defenseman has not yet played for the HC Viverna Kazan this season. He has played 12 games with the Regina Ravens this season, totalling 1+8=9 with 12 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>10-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="73"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Doga Magnum</a> is looking good with 3 points in 1 games last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="75"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ælred Leskowsky</a> is looking good with 3 points in 1 games last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="77"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Masked Devilock</a> is looking good with 3 points in 1 games last week. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="85"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Sebastian Härpäke</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="202"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jesse Burk</a> has lost his sights and is now 12 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="245"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Dušan Strašila</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="271"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baker</a> has been a healthy scratch in his last five games. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>6-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="796"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brenden Thompson</a> frustrated</font></td>
  </tr>
  <tr>

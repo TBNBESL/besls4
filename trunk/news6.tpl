@@ -1,5 +1,106 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>11-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="68"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Savin</a> speaks up.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="68"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Savin</a> is disappointed in the team tactics after averaging 9 minutes in the last five games. He wants more icetime.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>11-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Team captain meets with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="79"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Elias Bistburg</a></font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Team captain <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="68"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Savin</a> called a short meeting with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="79"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Elias Bistburg</a> after practice today to discuss some issues that have affected his play. <i>I have to take the brunt of this</i>, said <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="79"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Elias Bistburg</a> as he left the ice. <i>My play has not been up to snuff and if I'm not contributing more, I have to work harder.</i></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>11-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="143"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Lloyd Osmond</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T6"; return true' onMouseOut='window.status="No_id_here_now"; return true'>HC Zurich Saints</a> right wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="143"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Lloyd Osmond</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Canada, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="143"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Lloyd Osmond</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old right wing has not yet played for the HC Zurich Saints this season. He has played 13 games with the Helsinki Spirit this season, totalling 3+6=9 with 11 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>10-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="845"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Julio Bakos</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T6"; return true' onMouseOut='window.status="No_id_here_now"; return true'>HC Zurich Saints</a> defenseman <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="845"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Julio Bakos</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Canada, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="845"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Julio Bakos</a>, was originally signed as a free agent to the NHL. He has appeared in 123 NHL games during his career, notching 1 goals and adding 2 assists along with 0 penalty minutes. The 24 year old defenseman has played 12 games with the HC Zurich Saints this season, totalling 0+1=1 with 0 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>10-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="846"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Michael Lowden</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T6"; return true' onMouseOut='window.status="No_id_here_now"; return true'>HC Zurich Saints</a> defenseman <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="846"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Michael Lowden</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of La-la-land, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="846"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Michael Lowden</a>, was originally signed as a free agent to the NHL. He has appeared in 112 NHL games during his career, notching 1 goals and adding 0 assists along with 4 penalty minutes. The 24 year old defenseman has played 12 games with the HC Zurich Saints this season, totalling 1+0=1 with 4 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>10-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Player of the week: <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="57"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Moses Rabbenu</a> (C)</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\8.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>NHL has awarded <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="57"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Moses Rabbenu</a> (C) of <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T6"; return true' onMouseOut='window.status="No_id_here_now"; return true'>HC Zurich Saints</a> as Player Of The Week
+
+He registered 2 goals and 3 assists for 5 points in 2 games last week.<br><br> A native of La-la-land, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="57"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Moses Rabbenu</a>, was originally signed as a free agent to the NHL. He has appeared in 163 NHL games during his career, notching 22 goals and adding 31 assists along with 76 penalty minutes. The 24 year old center has played 12 games with the HC Zurich Saints this season, totalling 10+12=22 with 16 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>10-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="51"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Elias Frechette</a> is looking good with 3 points in 2 games last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="57"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Moses Rabbenu</a> is looking good with 5 points in 2 games last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="59"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tobi Polzin</a> is looking red hot with a 7 game point streak. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="79"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Elias Bistburg</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="124"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Pavol Richtarech</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="130"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Briddon</a> is looking out of place on the ice despite notching 2 points last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="141"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Janis Skribans</a> has lost his sights and is now 9 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="170"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matthew Boragina</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="216"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Lauris Prikulis</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="845"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Julio Bakos</a> has played 12 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2349"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Andrew Sorensen</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2350"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ryan Coyte</a> has lost his sights and is now 12 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2399"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Franco Jesús Méndez</a> has been chilly and allowed 9 goals in 2 games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2415"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gunnar Stach</a> has played 12 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2416"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ryan Crappa</a> has lost his sights and is now 12 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>9-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="133"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Michael McSparron</a> frustrated</font></td>
  </tr>
  <tr>

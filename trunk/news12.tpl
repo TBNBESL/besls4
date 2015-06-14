@@ -1,5 +1,64 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>11-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="280"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Giedrius Pradkelis</a> resumes full training.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Duluth-Superior Northerners center <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="280"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Giedrius Pradkelis</a> has resumed full training after his  injury.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>10-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Team captain meets with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2391"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Josh Redbow</a></font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Team captain <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2389"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ryan Santee</a> called a short meeting with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2391"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Josh Redbow</a> after practice today to discuss some issues that have affected his play. <i>I guess they needed someone to take the blame...</i>, said <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2391"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Josh Redbow</a> as he left the ice, <i>...but I'll take it like a man</i></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>10-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="197"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jordan Kasper</a> is looking red hot with a 8 game point streak. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="266"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Henry Kruell</a> is looking red hot with a 6 game point streak. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="269"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tim Cory</a> is looking red hot with a 6 game point streak. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="125"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Reynolds</a> has played 12 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="214"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Mininni</a> has lost his sights and is now 12 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="226"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brian Harrison</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="249"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Johan Bengtsson</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="265"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Freddy Doll</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="284"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Miikka Karppinen</a> has lost his sights and is now 9 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="915"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Erik Schlotman</a> has played 11 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="993"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Krists Zommers</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2367"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Roka Owenes</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2379"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Lucas Rayvals</a> has lost his sights and is now 10 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>9-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="280"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Giedrius Pradkelis</a> injured.</font></td>
  </tr>
  <tr>
