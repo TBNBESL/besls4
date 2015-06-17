@@ -1,5 +1,26 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>16-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="52"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tyler O'Meara</a> reaches career high !</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="52"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tyler O'Meara</a> marked a new career high in points with 17 after scoring in tonights game against Stockholm Aeros on a feed by <a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="248"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Antti Laurila</a>. <i>You've got to hand it to the other guys in the room though, they gave it their all tonight</i>, he said after the game.<br><br> A native of Canada, <a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="52"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tyler O'Meara</a>, was originally signed as a free agent to the NHL. He has appeared in 166 NHL games during his career, notching 15 goals and adding 18 assists along with 73 penalty minutes. The 24 year old center has played 13 games with the Brooklyn Admirals this season, totalling 7+10=17 with 29 PIM.
+</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>16-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="64"; return true' onMouseOut='window.status="No_id_here_now"; return true'>T-Jay Harris</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files\Eastside Hockey Manager\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>T-Jay Harris of Ontario-Michigan Superiors suffered  injury during tonights minorleague game against the Gothenburg Royals.
+
+He is expected to be sidelined for a couple of days . <i>I'll just put some ice on it and it'll be as good as new. It will take more than this to slow me down</i>, he said when he was taken off the ice.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>12-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="70"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alden Bustos</a> frustrated</font></td>
  </tr>
  <tr>
