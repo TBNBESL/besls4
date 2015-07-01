@@ -1,5 +1,24 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>14-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2399"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Franco Jesús Méndez</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T6"; return true' onMouseOut='window.status="No_id_here_now"; return true'>HC Zurich Saints</a> goaltender <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2399"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Franco Jesús Méndez</a> feels frustrated about his position in the organization. He feels he's good enough to be a franchise player for the team and wonders why the organization still considers him a core player.<br><br> A native of La-la-land, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2399"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Franco Jesús Méndez</a>, was originally signed as a free agent to the NHL. He has appeared in 35 NHL games during his career, booking 1 career shutouts and allowing 127 goals. The 24 year old goaltender has played 23 games with the HC Zurich Saints this season, allowing 87 goals on 693 while booking 1 shutouts.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>13-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="57"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Moses Rabbenu</a> reaches career high !</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="57"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Moses Rabbenu</a> marked a new career high in assists with 20 assists after assisting in tonights game against Quebec Voyageurs on a goal by <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="59"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tobi Polzin</a>. <i>We were playing our game tonight and I just happened to be in the right place at the right time</i>, the happy player commented.<br><br> A native of La-la-land, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="57"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Moses Rabbenu</a>, was originally signed as a free agent to the NHL. He has appeared in 173 NHL games during his career, notching 28 goals and adding 39 assists along with 88 penalty minutes. The 24 year old center has played 22 games with the HC Zurich Saints this season, totalling 16+20=36 with 28 PIM.
+</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>8-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
  </tr>
  <tr>
