@@ -1,5 +1,23 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>17-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Team captain clashes with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="846"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Michael Lowden</a></font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>A shouting match erupted in the <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T6"; return true' onMouseOut='window.status="No_id_here_now"; return true'>HC Zurich Saints</a> locker room after the 3-7 win at Quebec Voyageurs on 13-12-2002. Team captain <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="68"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Savin</a> apparently tried to have some words with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="846"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Michael Lowden</a> whose play has not been up to par recently. In response, the slumping defenseman stormed out, slamming the door.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>17-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="136"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Hynek Latta</a> resumes light training.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Helsinki Spirit left wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="136"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Hynek Latta</a> has resumed light training after his ankle injury and is listed day to day.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>16-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="136"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Hynek Latta</a> injured.</font></td>
  </tr>
  <tr>
