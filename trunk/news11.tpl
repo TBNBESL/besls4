@@ -1,5 +1,63 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>26-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="252"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Markus Helldörfer</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T11"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Stockholm Aeros</a> defenseman <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="252"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Markus Helldörfer</a> feels frustrated about his position in the organization. He feels he's good enough to be a core player for the team and wonders why the organization still considers him a regular player.<br><br> A native of Germany, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="252"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Markus Helldörfer</a>, was originally signed as a free agent to the NHL. He has appeared in 178 NHL games during his career, notching 6 goals and adding 44 assists along with 34 penalty minutes. The 24 year old defenseman has played 24 games with the Stockholm Aeros this season, totalling 1+23=24 with 6 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>26-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="262"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kenneth Lehtinen</a> speaks up.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="262"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kenneth Lehtinen</a> is disappointed in the team tactics after having not played in the last five games. He wants more icetime.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>26-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="252"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Markus Helldörfer</a> reaches career high !</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="252"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Markus Helldörfer</a> marked a new career high in assists with 22 assists after assisting in tonights game against Quebec Voyageurs on a goal by <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="243"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jørgen Nyrud</a>. <i>I'm happy about it but that's it, gotta think other things now</i>, the player said in an interview.<br><br> A native of Germany, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="252"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Markus Helldörfer</a>, was originally signed as a free agent to the NHL. He has appeared in 177 NHL games during his career, notching 6 goals and adding 43 assists along with 34 penalty minutes. The 24 year old defenseman has played 23 games with the Stockholm Aeros this season, totalling 1+22=23 with 6 PIM.
+</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>26-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="247"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kristian Marosi</a> reaches career high !</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="247"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kristian Marosi</a> marked a new career high in goals with  19 tallies after scoring in tonights game against Quebec Voyageurs on a feed by <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2394"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Fredrik Bengtsson</a>. <i>You can't worry about the personal achievements - it's the W's that count</i>, he commented and was all smiles.<br><br> A native of Sweden, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="247"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kristian Marosi</a>, was originally signed as a free agent to the NHL. He has appeared in 177 NHL games during his career, notching 37 goals and adding 28 assists along with 50 penalty minutes. The 24 year old right wing has played 23 games with the Stockholm Aeros this season, totalling 19+11=30 with 12 PIM.
+</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>26-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="258"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Mattias Fors</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Mattias Fors of Gothenburg Royals suffered arm injury during tonights minorleague game against the Moncton Hawks.
+
+He is expected to be sidelined for a couple of days . <i>I should be back in the lineup soon, it doesn't feel that serious</i>, he commented to the press.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>25-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="908"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Efraim Larsson</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T11"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Stockholm Aeros</a> goaltender <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="908"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Efraim Larsson</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Sweden, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="908"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Efraim Larsson</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, booking 0 career shutouts and allowing 0 goals. The 24 year old goaltender has not yet played for the Stockholm Aeros this season.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>22-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Player of the week: <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="247"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kristian Marosi</a> (R)</font></td>
  </tr>
  <tr>
