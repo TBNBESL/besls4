@@ -1,5 +1,27 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>2-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Player of the week: <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2402"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcus Lindholm</a> (R)</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\8.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>NHL has awarded <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2402"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcus Lindholm</a> (R) of <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T3"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brooklyn Admirals</a> as Player Of The Week
+
+He registered 4 goals and 2 assists for 6 points in 2 games last week.
+
+He also had 1 game winning goal.<br><br> A native of Sweden, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2402"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcus Lindholm</a>, was originally signed as a free agent to the NHL. He has appeared in 48 NHL games during his career, notching 22 goals and adding 34 assists along with 6 penalty minutes. The 24 year old right wing has played 36 games with the Brooklyn Admirals this season, totalling 19+26=45 with 6 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>2-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="271"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baker</a> claimed off waivers.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T13"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Florida Panthers</a> claimed <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="271"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baker</a>, who had been with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T4"; return true' onMouseOut='window.status="No_id_here_now"; return true'>HC Viverna Kazan</a>, off waivers.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>1-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Player of the month: <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="269"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tim Cory</a> (R)</font></td>
  </tr>
  <tr>

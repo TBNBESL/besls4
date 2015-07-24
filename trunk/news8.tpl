@@ -1,5 +1,52 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>2-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="155"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marek Pala</a> is looking good with 3 points in 2 games last week. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="88"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Douglas Neveu</a> has lost his sights and is now 14 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="109"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Shaun Mahe</a> is down on his game pulling a 10 game streak without registering a single point. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="173"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ignacio Marino</a> has played 19 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="181"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Fredd Da Silva</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="186"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Bobby Boucher</a> has been chilly and allowed 11 goals in 2 games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="217"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Remi Foxwilleau</a> has played 28 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="890"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Wright</a> has lost his sights and is now 7 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="897"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Travis Tilford</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2345"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kevin Astbury</a> has played 17 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2370"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Janis Robežs</a> has lost his sights and is now 12 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>2-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="155"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marek Pala</a> reaches career high !</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="155"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marek Pala</a> marked a new career high in goals with  24 tallies after scoring in tonights game against Vancouver Cascades on a feed by <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="169"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Philippe Milette</a>. <i>I just feel so happy now, this comes at a good time for me</i>, our record breaker told a Hockey Night in Canada reporter.<br><br> A native of Czech, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="155"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marek Pala</a>, was originally signed as a free agent to the NHL. He has appeared in 191 NHL games during his career, notching 47 goals and adding 39 assists along with 51 penalty minutes. The 24 year old right wing has played 36 games with the Montreal Bears this season, totalling 24+16=40 with 30 PIM.
+</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>1-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Board considering budget</font></td>
  </tr>
  <tr>

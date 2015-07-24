@@ -1,5 +1,57 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>2-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="213"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Lassi Aho</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T11"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Stockholm Aeros</a> left wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="213"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Lassi Aho</a> feels frustrated about his position in the organization. He feels he's good enough to be a franchise player for the team and wonders why the organization still considers him a core player.<br><br> A native of Finland, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="213"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Lassi Aho</a>, was originally signed as a free agent to the NHL. He has appeared in 188 NHL games during his career, notching 30 goals and adding 36 assists along with 53 penalty minutes. The 24 year old left wing has played 37 games with the Stockholm Aeros this season, totalling 14+11=25 with 9 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>2-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+No-one is especially hot at the moment.<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="20"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Konstantin Kuehn</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="50"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matty Steele</a> has played 22 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="53"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Victor Olmos</a> has lost his sights and is now 14 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="112"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Zachary Alexander</a> has lost his sights and is now 20 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="195"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tuukka Aaltonen</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="241"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Andersson</a> has been chilly and allowed 9 goals in 2 games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="243"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jørgen Nyrud</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="260"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alexander Nilsson</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="262"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kenneth Lehtinen</a> has been a healthy scratch in his last five games. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>2-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="251"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Fredrik Hammarbäck</a> reaches career high !</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="251"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Fredrik Hammarbäck</a> marked a new career high in goals with  12 tallies after scoring in tonights game against HC Viverna Kazan on a feed by <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2394"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Fredrik Bengtsson</a>. <i>The coach gave me a chance to play, and I'm just trying to show him he made the right decision</i>, he commented and was all smiles.<br><br> A native of Sweden, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="251"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Fredrik Hammarbäck</a>, was originally signed as a free agent to the NHL. He has appeared in 190 NHL games during his career, notching 23 goals and adding 28 assists along with 16 penalty minutes. The 25 year old center has played 36 games with the Stockholm Aeros this season, totalling 12+17=29 with 4 PIM.
+</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>1-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Board considering budget</font></td>
  </tr>
  <tr>
