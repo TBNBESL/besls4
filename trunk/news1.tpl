@@ -1,5 +1,35 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>8-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2395"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Meghan Sparks</a> resumes full training.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="G:\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>St. Paul Bucksaws center <a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2395"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Meghan Sparks</a> has resumed full training after his groin injury.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>7-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Andrew Walker</a> reaches career high !</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="G:\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Andrew Walker</a> marked a new career high in points with 43 after scoring in tonights game against Brooklyn Admirals on a feed by <a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2401"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tommy Bigelow</a>. <i>Yes, it does feel great</i>, our record breaker told a Hockey Night in Canada reporter.<br><br> A native of Canada, <a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Andrew Walker</a>, was originally signed as a free agent to the NHL. He has appeared in 190 NHL games during his career, notching 46 goals and adding 39 assists along with 42 penalty minutes. The 24 year old left wing has played 36 games with the St. Paul Bucksaws this season, totalling 26+17=43 with 18 PIM.
+</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>7-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2395"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Meghan Sparks</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="G:\Eastside Hockey Manager\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2395"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Meghan Sparks</a> (STP) suffered groin injury during the game in an incident with <a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="84"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Nick Church</a> (BRK).
+
+He is expected to be sidelined for a couple of days. <i>I may be out of the line up for the next game just as a precaution, but I don't think it's anything serious</i>, he commented from the trainers bench.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>6-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Extra practise results</font></td>
  </tr>
  <tr>
