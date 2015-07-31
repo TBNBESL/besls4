@@ -1,5 +1,41 @@
 <table width=90% border=1>
  <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>17-2-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T29"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Vancouver Canucks</a> claimed <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="723"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Geordie Carragher</a>(DEN) off waivers.</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>17-2-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T9"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Providence Puffins</a> called up <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="167"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ainis Broks</a> from New York Thunderbirds (e)</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>17-2-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>New York Thunderbirds</a> fastsigned free agent <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2310"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ken Dehovitz</a> to a one year contract</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>16-2-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T27"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tampa Bay Lightning</a> signed  <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="639"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tom Clark</a> to a 3 year extension and assigned him to <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T57"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Detroit Vipers</a></font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>16-2-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Washington Capitals</a> signed  <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="720"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Vadim Rakomin</a> to a 4 year extension</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>16-2-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T14"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Los Angeles Kings</a> signed  <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="1047"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Miguel Bouchard</a> to a 2 year extension and assigned him to <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Manchester Monarchs</a></font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
   <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>16-2-2003 </b></font></td>
   <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Denver Wildcats</a> placed <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="723"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Geordie Carragher</a> on waivers.</font></td>
  </tr>
