@@ -1,5 +1,36 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>29-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="233"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ed Kimberley</a> reaches career high !</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="233"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ed Kimberley</a> marked a new career high in points with 12 after scoring in tonights game against St. Paul Bucksaws on a feed by <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2388"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Wynter Philip</a>. <i>I just want to thank all the people that have supported me throughout my career. I couldn't have done this without them</i>, was the comment released to the press after the game.<br><br> A native of La-la-land, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="233"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ed Kimberley</a>, was originally signed as a free agent to the NHL. He has appeared in 201 NHL games during his career, notching 9 goals and adding 14 assists along with 207 penalty minutes. The 24 year old right wing has played 47 games with the Providence Puffins this season, totalling 5+7=12 with 100 PIM.
+</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>29-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="203"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joshua Hendricks</a> reaches career high !</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="203"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joshua Hendricks</a> marked a new career high in points with 37 after scoring in tonights game against St. Paul Bucksaws on a feed by <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="129"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brad Philip</a>. <i>I just want to thank this great organization for presenting me with the opportunity to play in the NHL</i>, he commented during a post game radio interview.<br><br> A native of Canada, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="203"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joshua Hendricks</a>, was originally signed as a free agent to the NHL. He has appeared in 206 NHL games during his career, notching 27 goals and adding 46 assists along with 26 penalty minutes. The 25 year old center has played 52 games with the Providence Puffins this season, totalling 13+24=37 with 14 PIM.
+</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>29-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="9"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Nick Gratton</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Nick Gratton of New York Thunderbirds suffered  injury during tonights minorleague game against the San Antonio Rollers.
+
+He is expected to be sidelined for about a week . <i>It's a team game alright, I guess I just won't be part of this team for a few games</i>, he said while limping toward the dressing room.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>25-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="74"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Peter Bier</a> resumes full training.</font></td>
  </tr>
  <tr>
