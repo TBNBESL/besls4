@@ -1,5 +1,63 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>25-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="258"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Mattias Fors</a> resumes full training.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Gothenburg Royals center <a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="258"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Mattias Fors</a> has resumed full training after his  injury.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>25-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="174"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ryan Waxman</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files\Eastside Hockey Manager\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Ryan Waxman of Gothenburg Royals suffered  injury during tonights minorleague game against the San Antonio Rollers.
+
+He is expected to be sidelined for a couple of months . <i>1-2 months of no hockey will be harder to deal with than this injury believe me</i>, he quoted before being taken to the hospital for tests.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>25-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="258"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Mattias Fors</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files\Eastside Hockey Manager\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Mattias Fors of Gothenburg Royals suffered arm injury during tonights minorleague game against the San Antonio Rollers.
+
+He is expected to be sidelined for a couple of days . <i>That was just good, clean, hard hitting hockey. If you think I look bad now you should see the other guy</i>, he said as the trainers examined him.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>24-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="75"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Mikiya Kokutou</a> is looking good with 5 points in 3 games last week. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="183"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tyler Hetherington</a> is looking steady with 3 points in 3 games last week. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2377"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Fredrik Olsson</a> is looking good with 4 points in 3 games last week. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2428"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jonathan Hicks</a> is looking good with 5 points in 3 games last week. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="102"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Axel Wulf</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="127"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brian Tong</a> has been a healthy scratch in his last five games. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>23-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2368"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Stefan Bystedt</a> frustrated</font></td>
  </tr>
  <tr>

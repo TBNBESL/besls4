@@ -1,5 +1,47 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>25-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="206"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alexandru Ursu</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T3"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brooklyn Royals</a> defenseman <a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="206"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alexandru Ursu</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Germany, <a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="206"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alexandru Ursu</a>, was originally signed as a free agent to the NHL. He has appeared in 262 NHL games during his career, notching 7 goals and adding 36 assists along with 53 penalty minutes. The 24 year old defenseman has not yet played for the Brooklyn Royals this season.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>24-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="51"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Lionel Mandrake</a> is looking good with 2 points in 1 games last week. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="198"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Peters</a> is looking good with 2 points in 1 games last week. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2346"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Viktor Paynehero</a> is looking good with a 4 game point scoring streak with 1 game goalstreak. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="98"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tristan Mayer</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="206"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alexandru Ursu</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="779"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Andrei Venachenko</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2399"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Franco Jesús Méndez</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2412"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kavan DuBois</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2429"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jeromir Jegr</a> has lost his sights and is now 5 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>24-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Extra practise results</font></td>
  </tr>
  <tr>

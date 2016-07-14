@@ -1,5 +1,40 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>24-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+No-one is especially hot at the moment.<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="5"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Michael Olson</a> has been chilly and allowed 8 goals in 2 games. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="88"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Doug Neveu</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="92"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Laurence Chan</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="152"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Conor Thompson</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="201"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Shane Kelley</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="251"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Fredrik Hammarbäck</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="772"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christopher Wong</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2363"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brandon McCartney</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2411"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Walters</a> has lost his sights and is now 6 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>24-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Extra practise results</font></td>
  </tr>
  <tr>
