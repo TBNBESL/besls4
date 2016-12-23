@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <GameCenter>
-  <Configuration season="6" resetPlayerData="false" />
+  <Configuration season="7" resetPlayerData="false" />
   <League>
     <Teams>
       <Team id="1" city="St. Paul" name="Bucksaws" abbreviation="STP" />
