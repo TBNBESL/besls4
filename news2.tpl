@@ -1,5 +1,2415 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>29-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="811"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Cody McCullough</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> center <a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="811"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Cody McCullough</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Canada, <a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="811"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Cody McCullough</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 25 year old center has not yet played for the Brisbane Clippers this season. He has played 54 games with the Taipei Monkeys this season, totalling 12+24=36 with 28 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>27-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="811"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Cody McCullough</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> center <a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="811"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Cody McCullough</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Canada, <a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="811"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Cody McCullough</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 25 year old center has not yet played for the Brisbane Clippers this season. He has played 54 games with the Taipei Monkeys this season, totalling 12+24=36 with 28 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>24-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="47"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Steve Evans</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="47"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Steve Evans</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="47"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Steve Evans</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 25 year old left wing has not yet played for the Brisbane Clippers this season. He has played 54 games with the Taipei Monkeys this season, totalling 14+12=26 with 20 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>25-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>NHL nominates players for NHL Awards</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>The NHL has released the annual list of award nominees. For each category in which the winner is voted, there are three nominees. The annual NHL Awards Ceremony is held right after the Stanley Cup Finals.<br><br>Here are the candidates for season 2002-03:<br><br><b><u>Jack Adams Award</b></u><br>1. Thomas Sutton, London Wolves<br>2. Patrick Giddens, Brooklyn Admirals<br>3. Leroy Beaupré, Quebec Voyageurs<br><i>Annual award given to the NHL coach adjudged to have contributed the most to his team's success</i><br><br><b><u>Calder Memorial Trophy</b></u><br>1. <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2376"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Allie Smith</a>, Brisbane Clippers<br>2. <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2377"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Fredrik Olsson</a>, Providence Puffins<br>3. <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2363"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brandon McCartney</a>, Mississauga Reds<br><i>Annual award given to the player selected as the most proficient in his first year of competition in the National Hockey League</i><br><br><b><u>Hart Memorial Trophy</b></u><br>1. <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="894"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Zack Pittman</a>, Providence Puffins<br>2. <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="5"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Michael Olson</a>, Brooklyn Admirals<br>3. <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="104"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jake Dillon</a>, London Wolves<br><i>Annual award given to the player judged to be the most valuable to his team</i><br><br><b><u>Lady Byng Memorial Trophy</b></u><br>1. <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="77"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tyroil Smoochie-Wallace</a>, HC Viverna Kazan<br>2. <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="197"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jordan Kasper</a>, Brooklyn Admirals<br>3. <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="220"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jára Cimrman</a>, Quebec Voyageurs<br><i>Annual award given to the player adjudged to have exhibited the best type of sportsmanship and gentlemanly conduct combined with a high standard of playing ability</i><br><br><b><u>James Norris Memorial Trophy</b></u><br>1. <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2409"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Siberia Appletree</a>, HC Viverna Kazan<br>2. <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2411"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Walters</a>, Mississauga Reds<br>3. <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2410"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kamil Sikora</a>, HC Viverna Kazan<br><i>Annual award given to the defense player who demonstrates throughout the season the greatest all-round ability in the position</i><br><br><b><u>Frank J. Selke Trophy</b></u><br>1. <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="184"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Nikolai Yakushkin</a>, HC Viverna Kazan<br>2. <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="278"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ray Laing</a>, Providence Puffins<br>3. <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="126"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Devin Duhn</a>, London Wolves<br><i>Annual award given to the forward who best excels in the defensive aspects of the game</i><br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>23-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a> resumes full training.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Taipei Monkeys left wing <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a> has resumed full training after his ankle injury.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>21-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files\Eastside Hockey Manager\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a> (POL) suffered ankle injury during the game in an incident with <a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="725"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jens Kidman</a> (FIN).
+
+He is expected to be sidelined for a couple of days. <i>They just want to be careful after what happened to me last time. I'll dress for tomorrows practice, then it's up to the coaching staff</i>, he commented from the trainers bench.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>18-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> players selected to World Championships</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>World Championships in icehockey are about to start. The following players from <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> have been selected to represent their countries:<br><br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="1"; return true' onMouseOut='window.status="No_id_here_now"; return true'>David Pochop</a> (CZE)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christian Larose</a> (CAN)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="31"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Sherris</a> (CAN)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="33"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gustav Alm Oja</a> (SWE)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="38"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcel Schoenhardt</a> (GER)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a> (POL)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a> (SWE)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="48"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jim McGregor</a> (CAN)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="93"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Anthony Rossi</a> (USA)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="250"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gabriel Weissengel</a> (SUI)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="281"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Baudais</a> (CAN)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="736"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Sebastian Jacob</a> (GER)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="753"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Miroslav Chovancik</a> (SVK)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="755"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Florian Kasdorf</a> (GER)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="759"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Boris Sarkov</a> (RUS)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="760"; return true' onMouseOut='window.status="No_id_here_now"; return true'>David Zetterman</a> (SWE)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="767"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Risto Lönnström</a> (FIN)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="770"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Janis Sturitis</a> (LAT)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="916"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ernie Rubottom</a> (USA)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="962"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ritvars Stankevich</a> (LAT)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="966"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Eric Storm</a> (USA)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="1456"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Veli Karvinen</a> (FIN)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="1458"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Mikulas Stvrtecky</a> (SVK)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2376"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Allie Smith</a> (CAN)<br><br>Altough invited to the team, the following players refused to participate due to miscellaneous reasons: <br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="25"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Lopez</a>(USA)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="26"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tim Kurtz</a>(USA)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a>(USA)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="29"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tony Nielsen</a>(USA)<br>-<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a>(USA)<br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>17-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a>, was originally signed as a free agent to the NHL. He has appeared in 126 NHL games during his career, notching 2 goals and adding 4 assists along with 12 penalty minutes. The 25 year old left wing has played 26 games with the Brisbane Clippers this season, totalling 2+4=6 with 12 PIM. He has also played 20 games with the Taipei Monkeys this season, totalling 6+2=8 with 10 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>17-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Playoff series preview</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T4"; return true' onMouseOut='window.status="No_id_here_now"; return true'>HC Viverna Kazan</a> will start at home against the <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> in the first round clash. On paper, the <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T4"; return true' onMouseOut='window.status="No_id_here_now"; return true'>HC Viverna Kazan</a> seem to have a slight advantage over the <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> and could very well win the series.<br><br><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T4"; return true' onMouseOut='window.status="No_id_here_now"; return true'>HC Viverna Kazan</a> injuries: <br><br><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> injuries: <br><br>Prediction: <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T4"; return true' onMouseOut='window.status="No_id_here_now"; return true'>HC Viverna Kazan</a> wins the series 4-2.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>12-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> is looking red hot with a 8 game point streak. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="26"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tim Kurtz</a> is down on his game pulling a 10 game streak without registering a single point. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christian Larose</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="35"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Rami Black</a> is down on his game pulling a 14 game streak without registering a single point. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="38"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcel Schoenhardt</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> is sliding on a 16 game streak without registering a single point. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="93"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Anthony Rossi</a> has lost his sights and is now 14 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has played 46 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> has lost his sights and is now 7 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2372"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Twinberry</a> has lost his sights and is now 9 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> has lost his sights and is now 18 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>10-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="281"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Baudais</a> resumes full training.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Taipei Monkeys center <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="281"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Baudais</a> has resumed full training after his  injury.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>5-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a> is looking good with 3 points in 1 games last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="29"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tony Nielsen</a> is looking good with 2 points in 1 games last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> is looking red hot with a 8 game point streak. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="123"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kayla Tasker</a> is looking good with 2 points in 1 games last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2376"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Allie Smith</a> is looking good with 3 points in 1 games last week. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="26"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tim Kurtz</a> is down on his game pulling a 10 game streak without registering a single point. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christian Larose</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="35"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Rami Black</a> is down on his game pulling a 14 game streak without registering a single point. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="38"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcel Schoenhardt</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> is sliding on a 16 game streak without registering a single point. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="93"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Anthony Rossi</a> has lost his sights and is now 14 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has played 46 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> has lost his sights and is now 7 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2372"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Twinberry</a> has lost his sights and is now 9 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> has lost his sights and is now 18 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>5-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="281"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Baudais</a> resumes light training.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Taipei Monkeys center <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="281"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Baudais</a> has resumed light training after his  injury and is listed day to day.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>2-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="727"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Edward Cash</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> goaltender <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="727"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Edward Cash</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="727"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Edward Cash</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, booking 0 career shutouts and allowing 0 goals. The 25 year old goaltender has not yet played for the Brisbane Clippers this season. He has played 24 games with the Taipei Monkeys this season, totalling 0+1=1 with 0 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>2-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2376"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Allie Smith</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2376"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Allie Smith</a> feels frustrated about his position in the organization. He feels he's good enough to be a core player for the team and wonders why the organization still considers him a regular player.<br><br> A native of Canada, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2376"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Allie Smith</a>, was originally signed as a free agent to the NHL. He has appeared in 53 NHL games during his career, notching 14 goals and adding 17 assists along with 32 penalty minutes. The 25 year old left wing has played 53 games with the Brisbane Clippers this season, totalling 14+17=31 with 32 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>30-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="281"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Baudais</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> center <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="281"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Baudais</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Canada, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="281"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Baudais</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 25 year old center has not yet played for the Brisbane Clippers this season. He has played 35 games with the Taipei Monkeys this season, totalling 13+35=48 with 22 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>29-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> is looking red hot with a 7 game point streak. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="26"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tim Kurtz</a> has lost his sights and is now 20 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a> has played 34 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="35"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Rami Black</a> is down on his game pulling a 13 game streak without registering a single point. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="38"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcel Schoenhardt</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> has lost his sights and is now 9 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> is sliding on a 15 game streak without registering a single point. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="93"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Anthony Rossi</a> has lost his sights and is now 14 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="250"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gabriel Weissengel</a> has been chilly and allowed 5 goals in 1 games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has played 45 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2372"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Twinberry</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> has lost his sights and is now 18 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>25-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="966"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Eric Storm</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> defenseman <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="966"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Eric Storm</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="966"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Eric Storm</a>, was originally signed as a free agent to the NHL. He has appeared in 148 NHL games during his career, notching 2 goals and adding 10 assists along with 10 penalty minutes. The 25 year old defenseman has played 48 games with the Brisbane Clippers this season, totalling 2+10=12 with 10 PIM. He has also played 1 games with the Taipei Monkeys this season, totalling 0+0=0 with 2 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>23-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="962"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ritvars Stankevich</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> right wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="962"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ritvars Stankevich</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Latvia, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="962"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ritvars Stankevich</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 25 year old right wing has not yet played for the Brisbane Clippers this season. He has played 49 games with the Taipei Monkeys this season, totalling 32+19=51 with 16 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>23-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="765"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brian Harmon</a> resumes full training.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Taipei Monkeys left wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="765"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brian Harmon</a> has resumed full training after his  injury.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>22-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> is looking red hot with a 6 game point streak. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="26"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tim Kurtz</a> has lost his sights and is now 19 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a> has played 33 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="35"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Rami Black</a> is down on his game pulling a 12 game streak without registering a single point. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="38"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcel Schoenhardt</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> is down on his game pulling a 14 game streak without registering a single point. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="250"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gabriel Weissengel</a> has been chilly and allowed 11 goals in 2 games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has played 44 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="723"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Geordie Carragher</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2372"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Twinberry</a> has lost his sights and is now 7 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> has lost his sights and is now 18 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>21-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Team captain meets with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a></font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Following the team's recent 5-2 loss at Manchester Revolution on 20-3-2003, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> captain <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> and <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> did not leave the dressing room for some time. <i>I think it was time to get some things out of the way</i>, said <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>21-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> speaks up.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> is disappointed in the team tactics after averaging 7 minutes in the last five games. He wants more icetime.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>20-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> speaks up.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> is disappointed in the team tactics after averaging 7 minutes in the last five games. He wants more icetime.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>18-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Poland, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 25 year old left wing has not yet played for the Brisbane Clippers this season. He has played 36 games with the Taipei Monkeys this season, totalling 26+23=49 with 20 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>18-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="765"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brian Harmon</a> resumes light training.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Taipei Monkeys left wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="765"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brian Harmon</a> has resumed light training after his  injury and is listed day to day.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>16-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> speaks up.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> is disappointed in the team tactics after averaging 7 minutes in the last five games. He wants more icetime.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>15-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="1"; return true' onMouseOut='window.status="No_id_here_now"; return true'>David Pochop</a> is looking good with a 4 game point scoring streak with 1 game goalstreak. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="29"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tony Nielsen</a> is looking good with 2 points in 1 games last week. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="33"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gustav Alm Oja</a> is looking good with a 4 game point scoring streak with 1 game goalstreak. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="25"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Lopez</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="26"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tim Kurtz</a> has lost his sights and is now 17 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a> has played 31 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="35"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Rami Black</a> is down on his game pulling a 10 game streak without registering a single point. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="38"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcel Schoenhardt</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> is down on his game pulling a 14 game streak without registering a single point. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has played 42 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="723"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Geordie Carragher</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2372"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Twinberry</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> has lost his sights and is now 16 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>13-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> speaks up.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> is disappointed in the team tactics after averaging 7 minutes in the last five games. He wants more icetime.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>13-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="281"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Baudais</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Alex Baudais of Taipei Monkeys suffered  injury during tonights minorleague game against the San Antonio Rollers.
+
+He is expected to be sidelined for almost a month . <i>You never expect an injury like this to happen, but it does</i>, he said before being taken away for x-rays.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>12-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="48"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jim McGregor</a> resumes full training.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Taipei Monkeys right wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="48"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jim McGregor</a> has resumed full training after his  injury.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>11-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="48"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jim McGregor</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Jim McGregor of Taipei Monkeys suffered groin injury during tonights minorleague game against the Alaska Polars.
+
+He is expected to be sidelined for a couple of days . <i>If it was up to me I would have finished the game, but they want to be careful about this kind of injury</i>, was his answer to a reporter question after the game.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>9-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="281"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Baudais</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> center <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="281"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Baudais</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Canada, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="281"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Baudais</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 25 year old center has not yet played for the Brisbane Clippers this season. He has played 33 games with the Taipei Monkeys this season, totalling 13+34=47 with 22 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>8-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2376"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Allie Smith</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2376"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Allie Smith</a> feels frustrated about his position in the organization. He feels he's good enough to be a core player for the team and wonders why the organization still considers him a regular player.<br><br> A native of Canada, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2376"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Allie Smith</a>, was originally signed as a free agent to the NHL. He has appeared in 46 NHL games during his career, notching 11 goals and adding 16 assists along with 32 penalty minutes. The 25 year old left wing has played 46 games with the Brisbane Clippers this season, totalling 11+16=27 with 32 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>8-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="1"; return true' onMouseOut='window.status="No_id_here_now"; return true'>David Pochop</a> is looking good with 3 points in 2 games last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christian Larose</a> is looking good with a 3 game point scoring streak with 1 game goalstreak. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> is looking good with a 3 game point scoring streak with 3 game goalstreak. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="26"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tim Kurtz</a> has lost his sights and is now 16 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a> has played 30 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="29"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tony Nielsen</a> has lost his sights and is now 9 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="31"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Sherris</a> has lost his sights and is now 10 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="35"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Rami Black</a> has lost his sights and is now 9 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="38"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcel Schoenhardt</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> is down on his game pulling a 14 game streak without registering a single point. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="250"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gabriel Weissengel</a> has been chilly and allowed 10 goals in 2 games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has played 41 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="723"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Geordie Carragher</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> has lost his sights and is now 15 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>5-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="281"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Baudais</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> center <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="281"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Baudais</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Canada, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="281"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Baudais</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 25 year old center has not yet played for the Brisbane Clippers this season. He has played 32 games with the Taipei Monkeys this season, totalling 13+32=45 with 22 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>1-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="29"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tony Nielsen</a> is looking good with 3 points in 2 games last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="33"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gustav Alm Oja</a> is looking good with 3 points in 2 games last week. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="26"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tim Kurtz</a> has lost his sights and is now 14 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a> has played 28 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="31"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Sherris</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="35"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Rami Black</a> has lost his sights and is now 7 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="38"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcel Schoenhardt</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> is down on his game pulling a 12 game streak without registering a single point. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has played 39 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="723"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Geordie Carragher</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> has lost his sights and is now 15 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>28-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2376"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Allie Smith</a> resumes full training.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Brisbane Clippers left wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2376"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Allie Smith</a> has resumed full training after his abdomen injury.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>1-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Rookie of the month: <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2372"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Twinberry</a> (L)</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>NHL has awarded <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2372"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Twinberry</a> (L) of <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> as Rookie Of The Month
+
+He registered 7 goals and 6 assists for 13 points in 15 games last month.
+
+He also had 2 game winning goals.<br><br> A native of Canada, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2372"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Twinberry</a>, was originally signed as a free agent to the NHL. He has appeared in 44 NHL games during his career, notching 14 goals and adding 17 assists along with 35 penalty minutes. The 24 year old left wing has played 44 games with the Brisbane Clippers this season, totalling 14+17=31 with 35 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>27-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="754"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Gerwitz</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> goaltender <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="754"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Gerwitz</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="754"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Gerwitz</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, booking 0 career shutouts and allowing 0 goals. The 25 year old goaltender has not yet played for the Brisbane Clippers this season.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>26-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="47"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Steve Evans</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="47"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Steve Evans</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="47"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Steve Evans</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 25 year old left wing has not yet played for the Brisbane Clippers this season. He has played 44 games with the Taipei Monkeys this season, totalling 11+12=23 with 20 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>25-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2376"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Allie Smith</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2376"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Allie Smith</a> (BRI) suffered abdomen injury during the game in an incident with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="256"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Mihai Coman</a> (LON).
+
+He is expected to be sidelined for a couple of days. <i>They're being cautious about my condition, but I feel pretty good right now and want to get back on the ice as soon as possible</i>, he commented to the media.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>23-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="281"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Baudais</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> center <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="281"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Baudais</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Canada, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="281"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Baudais</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 25 year old center has not yet played for the Brisbane Clippers this season. He has played 29 games with the Taipei Monkeys this season, totalling 13+28=41 with 22 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>22-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2372"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Twinberry</a> is looking steady with 3 points in 4 games last week. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="26"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tim Kurtz</a> has lost his sights and is now 12 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a> has played 26 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="29"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tony Nielsen</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="31"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Sherris</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="35"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Rami Black</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="38"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcel Schoenhardt</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> is down on his game pulling a 12 game streak without registering a single point. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has played 37 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> is looking out of place on the ice despite notching 2 points last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="723"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Geordie Carragher</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="916"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ernie Rubottom</a> has played 18 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2376"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Allie Smith</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> has lost his sights and is now 13 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>21-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="1460"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matthew Koppe</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="1460"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matthew Koppe</a> of Sheffield Steelers has suffered knee injury yesterday while playing a British league game. He is expected to be sidelined for almost a month. </font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>20-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> speaks up.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> is disappointed in the team tactics after averaging 7 minutes in the last five games. He wants more icetime.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>20-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2350"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ryan Coyte</a> speaks up.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2350"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ryan Coyte</a> is disappointed in the team tactics after averaging 7 minutes in the last five games. He wants more icetime.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>19-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a>, was originally signed as a free agent to the NHL. He has appeared in 120 NHL games during his career, notching 2 goals and adding 3 assists along with 6 penalty minutes. The 25 year old left wing has played 20 games with the Brisbane Clippers this season, totalling 2+3=5 with 6 PIM. He has also played 20 games with the Taipei Monkeys this season, totalling 6+2=8 with 10 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>18-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="757"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Clement Ma</a> resumes full training.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Taipei Monkeys defenseman <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="757"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Clement Ma</a> has resumed full training after his  injury.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>17-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="757"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Clement Ma</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Clement Ma of Taipei Monkeys suffered  injury during tonights minorleague game against the Gothenburg Royals.
+
+He is expected to be sidelined for a couple of days . <i>This will just build character, sitting out a few days I mean</i>, he said when he was taken off the ice.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>16-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="727"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Edward Cash</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> goaltender <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="727"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Edward Cash</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="727"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Edward Cash</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, booking 0 career shutouts and allowing 0 goals. The 25 year old goaltender has not yet played for the Brisbane Clippers this season. He has played 22 games with the Taipei Monkeys this season, totalling 0+1=1 with 0 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>15-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="1"; return true' onMouseOut='window.status="No_id_here_now"; return true'>David Pochop</a> is looking steady with 3 points in 4 games last week. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> is looking steady with 3 points in 4 games last week. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2350"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ryan Coyte</a> is looking steady with 3 points in 4 games last week. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2372"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Twinberry</a> is looking steady with 3 points in 4 games last week. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="26"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tim Kurtz</a> has lost his sights and is now 12 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a> has played 26 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="29"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tony Nielsen</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="38"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcel Schoenhardt</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> is down on his game pulling a 13 game streak without registering a single point. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="42"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baird</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has played 37 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> is looking out of place on the ice despite notching 2 points last week. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="721"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Hie</a> is sliding on a 19 game streak without registering a single point. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="915"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Erik Schlotman</a> has played 51 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> has lost his sights and is now 14 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>12-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Team captain clashes with <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a></font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Team captain <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> finally broke the silence in the locker room today when he pointed out the less than stellar play of <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a>. <i>If he wants to play for this team, he should be ready to chip in</i>, said the team captain.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>12-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="754"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Gerwitz</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> goaltender <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="754"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Gerwitz</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="754"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Gerwitz</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, booking 0 career shutouts and allowing 0 goals. The 25 year old goaltender has not yet played for the Brisbane Clippers this season.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>10-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="753"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Miroslav Chovancik</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> goaltender <a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="753"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Miroslav Chovancik</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Slovakia, <a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="753"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Miroslav Chovancik</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, booking 0 career shutouts and allowing 0 goals. The 25 year old goaltender has not yet played for the Brisbane Clippers this season.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>10-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="764"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Greg Gross</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="764"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Greg Gross</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="764"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Greg Gross</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 25 year old left wing has not yet played for the Brisbane Clippers this season. He has played 8 games with the Taipei Monkeys this season, totalling 1+1=2 with 2 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>8-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+No-one is especially hot at the moment.<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="26"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tim Kurtz</a> has lost his sights and is now 10 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a> has played 24 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> has lost his sights and is now 19 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> is down on his game pulling a 11 game streak without registering a single point. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="42"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baird</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has played 35 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> is looking out of place on the ice despite notching 2 points last week. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="721"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Hie</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="915"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Erik Schlotman</a> has played 49 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2350"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ryan Coyte</a> is looking out of place on the ice despite notching 2 points last week. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> has lost his sights and is now 12 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>7-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Team captain clashes with <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a></font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Team captain <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> finally broke the silence in the locker room today when he pointed out the poor play of <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a>. <i>In this team, you have to do your part. It's not like your playing out there just for yourself</i>, said the team captain.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>6-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="48"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jim McGregor</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> right wing <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="48"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jim McGregor</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Canada, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="48"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jim McGregor</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 25 year old right wing has not yet played for the Brisbane Clippers this season. He has played 38 games with the Taipei Monkeys this season, totalling 24+14=38 with 22 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>1-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Team captain meets with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a></font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Team captain <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> called a short meeting with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> after practice today to discuss some issues that have affected his play. <i>I guess they needed someone to take the blame...</i>, said <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> as he left the ice, <i>...but I'll take it like a man</i></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>1-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christian Larose</a> is looking good with a 3 game point scoring streak with 1 game goalstreak. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="31"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Sherris</a> is looking good with 2 points in 1 games last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> is looking good with 2 points in 1 games last week. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="25"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Lopez</a> has lost his sights and is now 7 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="26"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tim Kurtz</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a> has played 22 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="33"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gustav Alm Oja</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> has lost his sights and is now 17 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> is down on his game pulling a 10 game streak without registering a single point. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="42"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baird</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="250"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gabriel Weissengel</a> has been chilly and allowed 5 goals in 1 games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has played 33 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="721"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Hie</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="915"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Erik Schlotman</a> has played 47 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> has been a healthy scratch in his last five games. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>31-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> resumes full training.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Brisbane Clippers right wing <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> has resumed full training after his wrist injury.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>1-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Rookie of the month: <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2372"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Twinberry</a> (L)</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>NHL has awarded <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2372"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Twinberry</a> (L) of <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> as Rookie Of The Month
+
+He registered 5 goals and 5 assists for 10 points in 10 games last month.
+
+He also had 2 game winning goals.<br><br> A native of Canada, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2372"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Twinberry</a>, was originally signed as a free agent to the NHL. He has appeared in 36 NHL games during his career, notching 10 goals and adding 13 assists along with 28 penalty minutes. The 24 year old left wing has played 36 games with the Brisbane Clippers this season, totalling 10+13=23 with 28 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>1-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Board considering budget</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>The board of owners is considering about increasing your player budget because of your good financial record. If the good financial record is kept until the end of the season, your player budget might be increased.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>29-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a>, was originally signed as a free agent to the NHL. He has appeared in 114 NHL games during his career, notching 1 goals and adding 1 assists along with 4 penalty minutes. The 25 year old left wing has played 14 games with the Brisbane Clippers this season, totalling 1+1=2 with 4 PIM. He has also played 20 games with the Taipei Monkeys this season, totalling 6+2=8 with 10 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>28-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Team captain meets with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="723"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Geordie Carragher</a></font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Following the team's recent 6-2 loss at Brooklyn Admirals on 28-1-2003, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> captain <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> and <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="723"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Geordie Carragher</a> did not leave the dressing room for some time. <i>I think it was time to get some things out of the way</i>, said <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>28-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="765"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brian Harmon</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Brian Harmon of Taipei Monkeys suffered  injury during tonights minorleague game against the Ontario-Michigan Superiors.
+
+He is expected to be sidelined for a couple of months . <i>Last time I was injured in that area I came back too soon. I'm not going to come back until I'm able to go 100%</i>, he said after the game in the dressing room.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>28-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> (BRI) suffered wrist injury during the game in an incident with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="3"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Cav Benoit</a> (BRK).
+
+He is expected to be sidelined for a couple of days. <i>They're being cautious about my condition, but I feel pretty good right now and want to get back on the ice as soon as possible</i>, he murmured as he grimaced in pain.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>25-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> speaks up.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> is disappointed in the team tactics after averaging 7 minutes in the last five games. He wants more icetime.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>25-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="281"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Baudais</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> center <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="281"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Baudais</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Canada, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="281"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Baudais</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 25 year old center has not yet played for the Brisbane Clippers this season. He has played 21 games with the Taipei Monkeys this season, totalling 10+23=33 with 22 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>25-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="759"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Boris Sarkov</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> defenseman <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="759"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Boris Sarkov</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Russia, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="759"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Boris Sarkov</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 25 year old defenseman has not yet played for the Brisbane Clippers this season. He has played 18 games with the Taipei Monkeys this season, totalling 4+4=8 with 14 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>25-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="29"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tony Nielsen</a> is looking steady with 3 points in 3 games last week. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christian Larose</a> is looking steady with 3 points in 3 games last week. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="31"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Sherris</a> is looking good with 4 points in 3 games last week. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> is looking good with 4 points in 3 games last week. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2372"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Twinberry</a> is looking good with a 3 game point scoring streak with 1 game goalstreak. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2378"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christoffer Lind</a> is looking steady with 3 points in 3 games last week. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="25"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Lopez</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="26"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tim Kurtz</a> has lost his sights and is now 7 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a> has played 21 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="38"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcel Schoenhardt</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> has lost his sights and is now 16 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> has lost his sights and is now 9 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="42"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baird</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has played 32 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> has lost his sights and is now 7 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="721"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Hie</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="915"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Erik Schlotman</a> has played 46 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> has been a healthy scratch in his last five games. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>25-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="770"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Janis Sturitis</a> resumes full training.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Taipei Monkeys center <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="770"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Janis Sturitis</a> has resumed full training after his  injury.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>23-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="754"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Gerwitz</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> goaltender <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="754"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Gerwitz</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="754"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Gerwitz</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, booking 0 career shutouts and allowing 0 goals. The 25 year old goaltender has not yet played for the Brisbane Clippers this season.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>21-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Poland, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 25 year old left wing has not yet played for the Brisbane Clippers this season. He has played 19 games with the Taipei Monkeys this season, totalling 16+12=28 with 20 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>21-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="754"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Gerwitz</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> goaltender <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="754"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Gerwitz</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="754"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Gerwitz</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, booking 0 career shutouts and allowing 0 goals. The 25 year old goaltender has not yet played for the Brisbane Clippers this season.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>20-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Team captain meets with <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="915"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Erik Schlotman</a></font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Team captain <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> called a short meeting with <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="915"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Erik Schlotman</a> after practice today to discuss some issues that have affected his play. <i>I guess they needed someone to take the blame...</i>, said <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="915"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Erik Schlotman</a> as he left the ice, <i>...but I'll take it like a man</i></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>20-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="770"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Janis Sturitis</a> resumes light training.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Taipei Monkeys center <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="770"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Janis Sturitis</a> has resumed light training after his  injury and is listed day to day.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>19-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Team captain meets with <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a></font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Team captain <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> called a short meeting with <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> after practice today to discuss some issues that have affected his play. <i>I guess they needed someone to take the blame...</i>, said <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> as he left the ice, <i>...but I'll take it like a man</i></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>18-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="48"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jim McGregor</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> right wing <a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="48"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jim McGregor</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Canada, <a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="48"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jim McGregor</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 25 year old right wing has not yet played for the Brisbane Clippers this season. He has played 32 games with the Taipei Monkeys this season, totalling 18+13=31 with 22 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>18-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+No-one is especially hot at the moment.<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a> has played 18 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christian Larose</a> has lost his sights and is now 7 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="31"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Sherris</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="38"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcel Schoenhardt</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> has lost his sights and is now 13 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="42"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baird</a> has lost his sights and is now 11 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has played 29 games without a goal. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="721"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Hie</a> is sliding on a 17 game streak without registering a single point. 
+
+<a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> is down on his game pulling a 11 game streak without registering a single point. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>17-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Team captain meets with <a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a></font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Team captain <a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> called a short meeting with <a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> after practice today to discuss some issues that have affected his play. <i>I guess they needed someone to take the blame...</i>, said <a href="file://C|/Program Files/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> as he left the ice, <i>...but I'll take it like a man</i></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>14-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Team captain meets with <a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="721"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Hie</a></font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="G:\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Following the team's recent 2-5 win at Manchester Revolution on 14-1-2003, <a href="file://G|/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> captain <a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> and <a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="721"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Hie</a> were seen outside the dressing room going over some things. <i>He has had some trouble chipping in, so I thought it was time for a little chat</i>, said <a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>12-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="765"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brian Harmon</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="765"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brian Harmon</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="765"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brian Harmon</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 25 year old left wing has not yet played for the Brisbane Clippers this season. He has played 10 games with the Taipei Monkeys this season, totalling 5+5=10 with 2 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>11-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Player of the week: <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="29"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tony Nielsen</a> (C)</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\8.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>NHL has awarded <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="29"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tony Nielsen</a> (C) of <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> as Player Of The Week
+
+He registered 3 goals and 1 assists for 4 points in 2 games last week.
+
+He also had 1 game winning goal.<br><br> A native of USA, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="29"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tony Nielsen</a>, was originally signed as a free agent to the NHL. He has appeared in 130 NHL games during his career, notching 12 goals and adding 14 assists along with 6 penalty minutes. The 25 year old center has played 30 games with the Brisbane Clippers this season, totalling 12+14=26 with 6 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>11-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="29"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tony Nielsen</a> is looking good with a 4 game point scoring streak with 2 game goalstreak. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a> has played 16 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christian Larose</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="33"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gustav Alm Oja</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="38"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcel Schoenhardt</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> has lost his sights and is now 11 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="42"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baird</a> has lost his sights and is now 11 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="250"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gabriel Weissengel</a> has been chilly and allowed 8 goals in 2 games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has played 27 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="721"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Hie</a> is sliding on a 17 game streak without registering a single point. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="723"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Geordie Carragher</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> is down on his game pulling a 11 game streak without registering a single point. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>8-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> speaks up.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> is disappointed in the team tactics after averaging 3 minutes in the last five games. He wants more icetime.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>6-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Poland, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 25 year old left wing has not yet played for the Brisbane Clippers this season. He has played 15 games with the Taipei Monkeys this season, totalling 13+9=22 with 20 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>4-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="26"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tim Kurtz</a> is looking good with 5 points in 3 games last week. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="31"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Sherris</a> is looking steady with 3 points in 3 games last week. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> is looking good with 4 points in 3 games last week. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2372"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Twinberry</a> is looking steady with 3 points in 3 games last week. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2378"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christoffer Lind</a> is looking good with 4 points in 3 games last week. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="25"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Lopez</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a> has played 14 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="38"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcel Schoenhardt</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> has lost his sights and is now 11 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="42"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baird</a> has lost his sights and is now 9 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has played 25 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="721"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Hie</a> is sliding on a 15 game streak without registering a single point. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> has lost his sights and is now 9 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="33"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gustav Alm Oja</a> remains sidelined with ankle injury. 
+
+<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>2-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> players selected to World Junior Championships</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>World Junior Championships (U-20) in icehockey are about to start. The following players from <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> organization have been selected to represent their countries:<br><br>-<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="1452"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Lew Ibister</a> (USA)<br>-<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="1455"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Emanuel Louvek</a> (CZE)<br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>2-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> resumes full training.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Brisbane Clippers center <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> has resumed full training after his head injury.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>1-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="727"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Edward Cash</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> goaltender <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="727"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Edward Cash</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="727"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Edward Cash</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, booking 0 career shutouts and allowing 0 goals. The 25 year old goaltender has not yet played for the Brisbane Clippers this season. He has played 16 games with the Taipei Monkeys this season, totalling 0+1=1 with 0 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>30-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="765"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brian Harmon</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="765"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brian Harmon</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="765"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brian Harmon</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old left wing has not yet played for the Brisbane Clippers this season. He has played 6 games with the Taipei Monkeys this season, totalling 5+3=8 with 2 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>30-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> (BRI) suffered head injury during the game in an incident with <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="52"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tyler O'Meara</a> (BRK).
+
+He is expected to be sidelined for a couple of days. <i>Nothing serious, but I do remember who hit me and caused the injury</i>, he said while limping toward the dressing room.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>28-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="962"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ritvars Stankevich</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> right wing <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="962"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ritvars Stankevich</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Latvia, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="962"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ritvars Stankevich</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old right wing has not yet played for the Brisbane Clippers this season. He has played 22 games with the Taipei Monkeys this season, totalling 12+11=23 with 12 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>28-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> speaks up.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> is disappointed in the team tactics after averaging 7 minutes in the last five games. He wants more icetime.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>28-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+No-one is especially hot at the moment.<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a> has played 11 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="38"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcel Schoenhardt</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> has lost his sights and is now 10 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="42"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baird</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="250"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gabriel Weissengel</a> has been chilly and allowed 9 goals in 2 games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has played 22 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> has lost his sights and is now 7 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="721"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Hie</a> has played 69 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2345"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kevin Astbury</a> has played 22 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2350"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ryan Coyte</a> is looking out of place on the ice despite notching 2 points last week. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> has lost his sights and is now 6 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="33"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gustav Alm Oja</a> remains sidelined with ankle injury. 
+
+<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>25-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> trade</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\1.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> traded <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="1451"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Maxime Grenon</a> to <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T17"; return true' onMouseOut='window.status="No_id_here_now"; return true'>New York Islanders</a> for <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a><br><br> A native of Sweden, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a>, was originally signed as a free agent to the NHL. He has appeared in 101 NHL games during his career, notching 0 goals and adding 0 assists along with 2 penalty minutes. The 24 year old left wing has played 1 games with the New York Islanders this season, totalling 0+0=0 with 2 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>22-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a>, was originally signed as a free agent to the NHL. He has appeared in 104 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old left wing has played 4 games with the Brisbane Clippers this season, totalling 0+0=0 with 0 PIM. He has also played 20 games with the Taipei Monkeys this season, totalling 6+2=8 with 10 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>21-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+No-one is especially hot at the moment.<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> has lost his sights and is now 9 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="38"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcel Schoenhardt</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> has lost his sights and is now 12 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="42"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baird</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="250"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gabriel Weissengel</a> has been chilly and allowed 5 goals in 1 games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="721"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Hie</a> has played 67 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2345"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kevin Astbury</a> has played 20 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="33"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gustav Alm Oja</a> remains sidelined with ankle injury. 
+
+<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>20-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Poland, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old left wing has not yet played for the Brisbane Clippers this season. He has played 9 games with the Taipei Monkeys this season, totalling 8+8=16 with 20 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>20-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="756"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Nick Kempf</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> defenseman <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="756"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Nick Kempf</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="756"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Nick Kempf</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old defenseman has not yet played for the Brisbane Clippers this season. He has played 9 games with the Taipei Monkeys this season, totalling 2+3=5 with 12 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>20-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="761"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Patrick Cooper</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> defenseman <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="761"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Patrick Cooper</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Canada, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="761"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Patrick Cooper</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old defenseman has not yet played for the Brisbane Clippers this season. He has played 9 games with the Taipei Monkeys this season, totalling 0+1=1 with 10 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>19-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="770"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Janis Sturitis</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Janis Sturitis of Taipei Monkeys suffered  injury during tonights minorleague game against the Moncton Hawks.
+
+He is expected to be sidelined for more than a month . <i>You can't rush these kinds of injuries, sometimes you just have to stay off your feet for awhile</i>, the injured player commented.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>15-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="770"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Janis Sturitis</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="G:\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://G|/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> center <a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="770"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Janis Sturitis</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Latvia, <a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="770"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Janis Sturitis</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old center has not yet played for the Brisbane Clippers this season. He has played 16 games with the Taipei Monkeys this season, totalling 0+0=0 with 12 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>14-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="759"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Boris Sarkov</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="G:\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://G|/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> defenseman <a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="759"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Boris Sarkov</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Russia, <a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="759"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Boris Sarkov</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old defenseman has not yet played for the Brisbane Clippers this season. He has played 16 games with the Taipei Monkeys this season, totalling 4+4=8 with 14 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>14-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="G:\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="29"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tony Nielsen</a> is looking good with a 4 game point scoring streak with 3 game goalstreak. 
+
+<a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christian Larose</a> is looking steady with 3 points in 3 games last week. 
+
+<a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="31"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Sherris</a> is looking good with 5 points in 3 games last week. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="38"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcel Schoenhardt</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> has lost his sights and is now 7 games without a goal. 
+
+<a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> has lost his sights and is now 11 games without a goal. 
+
+<a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="42"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baird</a> has been a healthy scratch in his last five games. 
+
+<a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has been a healthy scratch in his last five games. 
+
+<a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="721"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Hie</a> has played 66 games without a goal. 
+
+<a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2345"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kevin Astbury</a> has played 19 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+<a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="33"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gustav Alm Oja</a> remains sidelined with ankle injury. 
+
+<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>12-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="962"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ritvars Stankevich</a> resumes full training.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="G:\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Taipei Monkeys right wing <a href="file://G|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="962"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ritvars Stankevich</a> has resumed full training after his  injury.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>11-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a> claimed off waivers.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T17"; return true' onMouseOut='window.status="No_id_here_now"; return true'>New York Islanders</a> claimed <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a>, who had been with <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a>, off waivers.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>10-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="47"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Steve Evans</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="47"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Steve Evans</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="47"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Steve Evans</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old left wing has not yet played for the Brisbane Clippers this season. He has played 20 games with the Taipei Monkeys this season, totalling 4+5=9 with 20 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>9-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="281"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Baudais</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> center <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="281"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Baudais</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Canada, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="281"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alex Baudais</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old center has not yet played for the Brisbane Clippers this season. He has played 6 games with the Taipei Monkeys this season, totalling 4+12=16 with 2 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>8-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="962"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ritvars Stankevich</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Ritvars Stankevich of Taipei Monkeys suffered  injury during tonights minorleague game against the New York Thunderbirds.
+
+He is expected to be sidelined for a couple of days . <i>They just want to be careful after what happened to me last time. I'll dress for tomorrows practice, then it's up to the coaching staff</i>, the injured player commented.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>7-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="26"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tim Kurtz</a> is looking good with 4 points in 2 games last week. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="29"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tony Nielsen</a> is looking good with 3 points in 2 games last week. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> is looking good with 3 points in 2 games last week. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christian Larose</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="42"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baird</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="721"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Hie</a> has played 63 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2345"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kevin Astbury</a> has played 16 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2372"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Twinberry</a> has lost his sights and is now 8 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="33"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gustav Alm Oja</a> remains sidelined with ankle injury. 
+
+<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>6-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://D|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="33"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gustav Alm Oja</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="D:\Eastside Hockey Manager\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://D|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="33"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gustav Alm Oja</a> (BRI) suffered ankle injury during the game in an incident with <a href="file://D|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="163"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Nick Bolduc</a> (MIS).
+
+He is expected to be sidelined for a couple of months. <i>It's something we need to take care of now before it becomes a problem. It's one of those things where you can play with it, but as the wear and tear of the season goes on it becomes much more serious</i>, he said as the trainers examined him.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>5-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Team captain meets with <a href="file://D|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="723"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Geordie Carragher</a></font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="D:\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Following the team's recent 1-1 tie against Quebec Voyageurs on 1-12-2002, <a href="file://D|/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> captain <a href="file://D|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> and <a href="file://D|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="723"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Geordie Carragher</a> did not leave the bench after the game for a while. <i>I wanted to go over some things that have been troubling his game lately</i>, said <a href="file://D|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>1-12-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> speaks up.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> is disappointed in the team tactics after averaging 7 minutes in the last five games. He wants more icetime.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>30-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+No-one is especially hot at the moment.<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="25"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Lopez</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="33"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gustav Alm Oja</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="42"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baird</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="250"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gabriel Weissengel</a> has been chilly and allowed 4 goals in 1 games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="721"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Hie</a> has played 61 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2345"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kevin Astbury</a> has played 14 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2372"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Twinberry</a> has lost his sights and is now 6 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>24-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="756"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Nick Kempf</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> defenseman <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="756"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Nick Kempf</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="756"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Nick Kempf</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old defenseman has not yet played for the Brisbane Clippers this season. He has played 2 games with the Taipei Monkeys this season, totalling 2+2=4 with 2 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>23-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a> is looking good with 4 points in 3 games last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="31"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Sherris</a> is looking good with 4 points in 3 games last week. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="25"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Lopez</a> has lost his sights and is now 7 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="33"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gustav Alm Oja</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="38"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcel Schoenhardt</a> has been chilly and allowed 5 goals in 1 games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> is looking out of place on the ice despite notching 2 points last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="42"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baird</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="721"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Hie</a> has played 60 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2345"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kevin Astbury</a> has played 13 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2372"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Twinberry</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> is down on his game pulling a 10 game streak without registering a single point. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>23-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2298"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris McKay</a> resumes full training.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Taipei Monkeys center <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2298"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris McKay</a> has resumed full training after his  injury.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>21-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://D|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="723"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Geordie Carragher</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="D:\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://D|/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> defenseman <a href="file://D|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="723"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Geordie Carragher</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Canada, <a href="file://D|/Eastside Hockey Manager/profile.html" onMouseOver='window.status="723"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Geordie Carragher</a>, was originally signed as a free agent to the NHL. He has appeared in 105 NHL games during his career, notching 1 goals and adding 2 assists along with 5 penalty minutes. The 24 year old defenseman has played 5 games with the Brisbane Clippers this season, totalling 1+2=3 with 5 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>19-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="283"; return true' onMouseOut='window.status="No_id_here_now"; return true'>William Schifelbine</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old left wing has not yet played for the Brisbane Clippers this season. He has played 14 games with the Taipei Monkeys this season, totalling 0+0=0 with 0 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>18-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2298"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris McKay</a> resumes light training.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Taipei Monkeys center <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2298"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris McKay</a> has resumed light training after his  injury and is listed day to day.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>18-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2298"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris McKay</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Chris McKay of Taipei Monkeys suffered  injury during tonights minorleague game against the San Antonio Rollers.
+
+He is expected to be sidelined for about a week . <i>It is one of those nagging injuries that you just have to wait out</i>, the injured player commented.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>17-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="727"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Edward Cash</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> goaltender <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="727"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Edward Cash</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="727"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Edward Cash</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, booking 0 career shutouts and allowing 0 goals. The 24 year old goaltender has not yet played for the Brisbane Clippers this season. He has played 13 games with the Taipei Monkeys this season, totalling 0+1=1 with 0 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>16-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="962"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ritvars Stankevich</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> right wing <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="962"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ritvars Stankevich</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Latvia, <a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="962"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ritvars Stankevich</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old right wing has not yet played for the Brisbane Clippers this season. He has played 13 games with the Taipei Monkeys this season, totalling 7+6=13 with 12 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>16-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santiago\Desktop\Nueva carpeta (2)\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="26"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tim Kurtz</a> is looking good with 2 points in 1 games last week. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> is looking good with 2 points in 1 games last week. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2378"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christoffer Lind</a> is looking good with a 3 game point scoring streak with 2 game goalstreak. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a> has played 20 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="38"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcel Schoenhardt</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> has lost his sights and is now 9 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="42"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baird</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="250"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gabriel Weissengel</a> has been chilly and allowed 4 goals in 1 games. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has played 21 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="721"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Hie</a> has played 57 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2345"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kevin Astbury</a> has played 10 games without a goal. 
+
+<a href="file://C|/Users/Santiago/Desktop/Nueva carpeta (2)/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> has lost his sights and is now 7 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>12-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Sweden, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old left wing has not yet played for the Brisbane Clippers this season.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>9-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> speaks up.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> is disappointed in the team tactics after averaging 7 minutes in the last five games. He wants more icetime.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>9-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2350"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ryan Coyte</a> speaks up.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2350"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ryan Coyte</a> is disappointed in the team tactics after averaging 7 minutes in the last five games. He wants more icetime.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>9-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="29"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tony Nielsen</a> is looking good with 3 points in 2 games last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="31"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Sherris</a> is looking good with 3 points in 2 games last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="250"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gabriel Weissengel</a> is playing well with 2 wins in his 2 starts last week and allowing 2 goals. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2372"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Twinberry</a> is looking good with 3 points in 2 games last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2378"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christoffer Lind</a> is looking good with 4 points in 2 games last week. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a> has played 19 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christian Larose</a> has lost his sights and is now 13 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="38"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcel Schoenhardt</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="42"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baird</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has played 21 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="721"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Hie</a> has played 56 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="723"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Geordie Carragher</a> has played 23 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> has lost his sights and is now 6 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>8-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="811"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Cody McCullough</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> center <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="811"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Cody McCullough</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Canada, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="811"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Cody McCullough</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old center has not yet played for the Brisbane Clippers this season. He has played 11 games with the Taipei Monkeys this season, totalling 0+0=0 with 0 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>7-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="E:\Games\EHM116\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://E|/Games/EHM116/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Poland, <a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old left wing has not yet played for the Brisbane Clippers this season.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>7-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Team captain meets with <a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="721"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Hie</a></font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="E:\Games\EHM116\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Following the team's recent 3-1 win against Manchester Revolution on 6-11-2002, <a href="file://E|/Games/EHM116/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> captain <a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> and <a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="721"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Hie</a> did not leave the bench after the game for a while. <i>I wanted to go over some things that have been troubling his game lately</i>, said <a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>7-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="2378"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christoffer Lind</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="E:\Games\EHM116\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://E|/Games/EHM116/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> defenseman <a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="2378"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christoffer Lind</a> feels frustrated about his position in the organization. He feels he's good enough to be a core player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Sweden, <a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="2378"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christoffer Lind</a>, was originally signed as a free agent to the NHL. He has appeared in 11 NHL games during his career, notching 1 goals and adding 5 assists along with 4 penalty minutes. The 24 year old defenseman has played 11 games with the Brisbane Clippers this season, totalling 1+5=6 with 4 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>5-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="E:\Games\EHM116\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://E|/Games/EHM116/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Sweden, <a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old left wing has not yet played for the Brisbane Clippers this season.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>5-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="2378"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christoffer Lind</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="E:\Games\EHM116\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://E|/Games/EHM116/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> defenseman <a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="2378"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christoffer Lind</a> feels frustrated about his position in the organization. He feels he's good enough to be a core player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Sweden, <a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="2378"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christoffer Lind</a>, was originally signed as a free agent to the NHL. He has appeared in 10 NHL games during his career, notching 1 goals and adding 3 assists along with 4 penalty minutes. The 24 year old defenseman has played 10 games with the Brisbane Clippers this season, totalling 1+3=4 with 4 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>4-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Team captain meets with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a></font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Following the team's recent 1-1 tie against Providence Puffins on 1-11-2002, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> captain <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> and <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> did not leave the dressing room for some time. <i>I think it was time to get some things out of the way</i>, said <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>2-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+No-one is especially hot at the moment.<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="26"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tim Kurtz</a> has lost his sights and is now 21 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a> has played 17 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christian Larose</a> has lost his sights and is now 11 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="31"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Sherris</a> has lost his sights and is now 9 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="33"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gustav Alm Oja</a> has lost his sights and is now 7 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="38"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcel Schoenhardt</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> has lost his sights and is now 26 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="42"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baird</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has played 21 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="721"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Hie</a> has played 54 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="723"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Geordie Carragher</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2372"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Twinberry</a> has lost his sights and is now 7 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>1-11-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Media criticises the <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a></font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>It isn't the happiest time for the <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> as they are on a 6 game winless streak. <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> coach Clarence Moore had little to say about the way things are going: <i>I don't know. Nothing seems to work...</i></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>29-10-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Poland, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old left wing has not yet played for the Brisbane Clippers this season.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>27-10-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+No-one is especially hot at the moment.<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="25"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Lopez</a> is looking out of place on the ice despite notching 2 points last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="26"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tim Kurtz</a> has lost his sights and is now 20 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a> has played 16 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christian Larose</a> has lost his sights and is now 10 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="31"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Sherris</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="33"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gustav Alm Oja</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="38"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcel Schoenhardt</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> has lost his sights and is now 25 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="42"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baird</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has played 20 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="721"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Hie</a> has played 53 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="723"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Geordie Carragher</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2372"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Twinberry</a> has lost his sights and is now 6 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>23-10-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Team captain meets with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2350"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ryan Coyte</a></font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Team captain <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> called a short meeting with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2350"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ryan Coyte</a> after practice today to discuss some issues that have affected his play. <i>I guess they needed someone to take the blame...</i>, said <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2350"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ryan Coyte</a> as he left the ice, <i>...but I'll take it like a man</i></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>21-10-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2340"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ian Wood</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> right wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2340"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ian Wood</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Canada, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2340"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ian Wood</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old right wing has not yet played for the Brisbane Clippers this season.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>20-10-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Sweden, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old left wing has not yet played for the Brisbane Clippers this season.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>20-10-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+No-one is especially hot at the moment.<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="26"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tim Kurtz</a> has lost his sights and is now 17 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a> has played 13 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christian Larose</a> has lost his sights and is now 7 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="31"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Sherris</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> has lost his sights and is now 22 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="42"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baird</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has played 17 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="721"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Hie</a> has played 50 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="723"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Geordie Carragher</a> has been a healthy scratch in his last five games. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>16-10-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="E:\Games\EHM116\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://E|/Games/EHM116/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Sweden, <a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="45"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Robert Hafström</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old left wing has not yet played for the Brisbane Clippers this season.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>15-10-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="47"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Steve Evans</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="47"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Steve Evans</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="47"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Steve Evans</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old left wing has not yet played for the Brisbane Clippers this season. He has played 5 games with the Taipei Monkeys this season, totalling 2+2=4 with 10 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>13-10-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="E:\Games\EHM116\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="29"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tony Nielsen</a> is looking red hot with a 6 game point streak. 
+
+<a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="250"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gabriel Weissengel</a> is playing well with 2 wins in his 2 starts last week and allowing 3 goals. 
+
+<a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="2372"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Twinberry</a> is looking good with 3 points in 2 games last week. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="26"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tim Kurtz</a> has lost his sights and is now 15 games without a goal. 
+
+<a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a> has played 11 games without a goal. 
+
+<a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christian Larose</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> has lost his sights and is now 20 games without a goal. 
+
+<a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="42"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baird</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has played 15 games without a goal. 
+
+<a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="721"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Hie</a> has played 48 games without a goal. 
+
+<a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="723"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Geordie Carragher</a> has played 21 games without a goal. 
+
+<a href="file://E|/Games/EHM116/profile.html" onMouseOver='window.status="2378"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christoffer Lind</a> has played 10 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>9-10-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="962"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ritvars Stankevich</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> right wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="962"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ritvars Stankevich</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Latvia, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="962"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ritvars Stankevich</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old right wing has not yet played for the Brisbane Clippers this season. He has played 3 games with the Taipei Monkeys this season, totalling 2+0=2 with 12 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>5-10-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="29"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tony Nielsen</a> is looking good with a 4 game point scoring streak with 1 game goalstreak. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2372"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Twinberry</a> is looking good with 22 points in 19 games last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2378"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christoffer Lind</a> is looking steady with 10 points in 19 games last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2386"; return true' onMouseOut='window.status="No_id_here_now"; return true'>James Norton</a> is looking steady with 14 points in 19 games last week. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="26"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tim Kurtz</a> has lost his sights and is now 13 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="38"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marcel Schoenhardt</a> has been chilly and allowed 4 goals in 1 games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> is sliding on a 16 game streak without registering a single point. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> has lost his sights and is now 18 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="42"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baird</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="250"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gabriel Weissengel</a> has been chilly and allowed 5 goals in 1 games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="267"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kyle Mundell</a> has played 13 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="721"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Hie</a> has played 46 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="723"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Geordie Carragher</a> has played 21 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2345"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kevin Astbury</a> has played 12 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>1-10-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="47"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Steve Evans</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="47"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Steve Evans</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="47"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Steve Evans</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 24 year old left wing looks to stay a member of the team for a long time.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>1-10-2002 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2378"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christoffer Lind</a> uncertain about future</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2378"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christoffer Lind</a> wants clarification on his future as he no longer can be considered a prospect. He wants you to clarify his status in the organization.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>30-6-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Training camp preview</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> will arrange the annual training camp starting on September 14th. Players reporting to the training camp with either <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> and Taipei Monkeys:<br>- Jay Lopez R<br>- Tim Kurtz L<br>- Caleb Christopherson D<br>- Tony Nielsen C<br>- Christian Larose L<br>- Matt Sherris R<br>- Jay Kosier C<br>- Gustav Alm Oja R<br>- Rami Black C<br>- Toulouse Lautrec D<br>- Vilhjalmur Kempsson G<br>- Marcel Schoenhardt G<br>- Jason Hodgson C<br>- Chris Baird L<br>- Grzegorz Lemanski L<br>- Robert Hafström L<br>- Steve Evans L<br>- Jim McGregor R<br>- Matt Ackerman L<br>- Kyle Mundell D<br>- Alex Baudais C<br>- William Schifelbine L<br>- Chris Hie D<br>- Geordie Carragher D<br>- Edward Cash G<br>- Sebastian Jacob L<br>- Miroslav Chovancik G<br>- Alex Gerwitz G<br>- Florian Kasdorf D<br>- Nick Kempf D<br>- Clement Ma D<br>- Greg Netherwood D<br>- Boris Sarkov D<br>- David Zetterman D<br>- Patrick Cooper D<br>- Reece Asquith-Jepson D<br>- James Byun L<br>- Greg Gross L<br>- Brian Harmon L<br>- Kyle Knight C<br>- Risto Lönnström C<br>- Joe Palkowski C<br>- Janis Sturitis C<br>- Zack Gagnon R<br>- Cody McCullough C<br>- Ritvars Stankevich R<br>- Chris McKay C<br>- Daryl Archer C<br>- Danny Sylas R<br>- Ian Wood R<br>- Kevin Astbury D<br>- Ryan Coyte R<br><br><b>Players reporting out of shape:</b><br>- Robert Hafström L<br>- Kyle Mundell D<br>- William Schifelbine L<br>- Chris Hie D<br>- Geordie Carragher D<br>- Nick Kempf D<br>- Kyle Knight C<br>- Chris McKay C<br>- Daryl Archer C<br><br><b>Players reporting in good shape:</b><br>- Tim Kurtz L<br>- Caleb Christopherson D<br>- Matt Sherris R<br>- Jay Kosier C<br>- Edward Cash G<br>- Sebastian Jacob L<br>- Boris Sarkov D<br>- Zack Gagnon R<br>- Ian Wood R<br>- Kevin Astbury D<br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>30-6-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Marko Sarasvuo leaves team</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Marko Sarasvuos contract has expired and he has left the team.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>30-6-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>James Nguyen leaves team</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>James Nguyens contract has expired and he has left the team.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>30-6-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>James Law leaves team</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>James Laws contract has expired and he has left the team.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>30-6-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Craig Brewer leaves team</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Craig Brewers contract has expired and he has left the team.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>27-6-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="727"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Edward Cash</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> goaltender <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="727"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Edward Cash</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="727"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Edward Cash</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, booking 0 career shutouts and allowing 0 goals. The 25 year old goaltender has not yet played for the Brisbane Clippers this season. He has played 54 games with the Taipei Monkeys this season, totalling 0+2=2 with 0 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>26-6-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> left wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Poland, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="44"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Grzegorz Lemanski</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 25 year old left wing has not yet played for the Brisbane Clippers this season. He has played 52 games with the Taipei Monkeys this season, totalling 36+11=47 with 16 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>26-6-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="48"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jim McGregor</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> right wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="48"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jim McGregor</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Canada, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="48"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jim McGregor</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 25 year old right wing has not yet played for the Brisbane Clippers this season. He has played 54 games with the Taipei Monkeys this season, totalling 16+19=35 with 26 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>25-6-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2315"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Daryl Archer</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brisbane Clippers</a> center <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2315"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Daryl Archer</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Canada, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2315"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Daryl Archer</a>, was originally signed as a free agent to the NHL. He has appeared in 102 NHL games during his career, notching 0 goals and adding 0 assists along with 15 penalty minutes. The 23 year old center has played 2 games with the Brisbane Clippers this season, totalling 0+0=0 with 15 PIM. He has also played 37 games with the Taipei Monkeys this season, totalling 9+11=20 with 20 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>21-5-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="727"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Edward Cash</a> frustrated</font></td>
  </tr>
  <tr>
