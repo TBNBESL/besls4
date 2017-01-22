@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <GameCenter>
-  <Configuration season="7" resetPlayerData="false" />
+  <Configuration resetPlayerData="false" />
   <League>
     <Teams>
       <Team id="1" city="St. Paul" name="Bucksaws" abbreviation="STP" />
       <Team id="2" city="Denver" name="Wildcats" abbreviation="DEN" />
-      <Team id="3" city="Brooklyn" name="Royals" abbreviation="BRK" />
+      <Team id="3" city="Brooklyn" name="Admirals" abbreviation="BRK" />
       <Team id="4" city="California" name="Golden Eagles" abbreviation="CAL" />
       <Team id="5" city="London" name="Wolves" abbreviation="LON" />
       <Team id="6" city="Seattle" name="Stars" abbreviation="SEA" />
-      <Team id="7" city="Toronto" name="Reds" abbreviation="TOR" />
+      <Team id="7" city="Mississauga" name="Reds" abbreviation="MIS" />
       <Team id="8" city="Berlin" name="Bears" abbreviation="BER" />
-      <Team id="9" city="Chicago" name="Storm" abbreviation="CHI" />
+      <Team id="9" city="Providence" name="Puffins" abbreviation="PRO" />
       <Team id="10" city="Quebec" name="Voyageurs" abbreviation="QUE" />
-      <Team id="11" city="Michigan" name="Superiors" abbreviation="MCH" />
-      <Team id="12" city="Boston" name="Terriers" abbreviation="BOS" />
+      <Team id="11" city="Stockholm" name="Aeros" abbreviation="STK" />
+      <Team id="12" city="Vancouver" name="Cascades" abbreviation="VAN" />
     </Teams>
   </League>
 </GameCenter>
