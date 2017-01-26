@@ -1,5 +1,24 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>22-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="92"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Laurence Chan</a> resumes full training.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Manhattan Boombangs left wing <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="92"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Laurence Chan</a> has resumed full training after his  injury.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>22-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="206"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alexander Ursu</a> reaches career high !</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="206"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alexander Ursu</a> marked a new career high in points with 16 after scoring in tonights game against Quebec Voyageurs on a feed by <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="253"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ilya Sarin</a>. <i>There's no 'I' in team and we have to get everyone playing the same system. It's not enough to just play a solid 20 or 40 minutes of hockey - you have to play 60. Hey, you know what? I forgot the question</i>, he commented to the media.<br><br> A native of Germany, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="206"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alexander Ursu</a>, was originally signed as a free agent to the NHL. He has appeared in 290 NHL games during his career, notching 15 goals and adding 44 assists along with 104 penalty minutes. The 24 year old right wing has played 28 games with the Toronto Reds this season, totalling 8+8=16 with 51 PIM.
+</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>20-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="46"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Yehudah Ben-Lev</a> resumes full training.</font></td>
  </tr>
  <tr>
