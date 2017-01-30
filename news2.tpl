@@ -1,5 +1,25 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>30-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/PC/Desktop/Eastside Hockey Manager/profile.html" onMouseOver='window.status="266"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Henry Kruell</a> reaches career high !</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\PC\Desktop\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/PC/Desktop/Eastside Hockey Manager/profile.html" onMouseOver='window.status="266"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Henry Kruell</a> marked a new career high in assists with 25 assists after assisting in tonights game against Toronto Reds on a goal by <a href="file://C|/Users/PC/Desktop/Eastside Hockey Manager/profile.html" onMouseOver='window.status="26"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tim Kunkel</a>. <i>It's a joy to be playing with these guys, they are the best teammates anyone could have</i>, he read from a prepared speech.<br><br> A native of USA, <a href="file://C|/Users/PC/Desktop/Eastside Hockey Manager/profile.html" onMouseOver='window.status="266"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Henry Kruell</a>, was originally signed as a free agent to the NHL. He has appeared in 280 NHL games during his career, notching 82 goals and adding 117 assists along with 55 penalty minutes. The 24 year old left wing has played 31 games with the Denver Wildcats this season, totalling 21+25=46 with 8 PIM.
+</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>30-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Users/PC/Desktop/Eastside Hockey Manager/profile.html" onMouseOver='window.status="30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christian Larose</a> reaches career high !</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\PC\Desktop\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Users/PC/Desktop/Eastside Hockey Manager/profile.html" onMouseOver='window.status="30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christian Larose</a> marked a new career high in assists with 18 assists after assisting in tonights game against Toronto Reds on a goal by <a href="file://C|/Users/PC/Desktop/Eastside Hockey Manager/profile.html" onMouseOver='window.status="33"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gustav Alm Oja</a>. <i>You gotta' hand it to their team today, they came to play and made us work for everything we got</i>, he said after viewing the play on the TV studio monitor.<br><br> A native of Canada, <a href="file://C|/Users/PC/Desktop/Eastside Hockey Manager/profile.html" onMouseOver='window.status="30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christian Larose</a>, was originally signed as a free agent to the NHL. He has appeared in 282 NHL games during his career, notching 63 goals and adding 78 assists along with 92 penalty minutes. The 25 year old left wing has played 31 games with the Denver Wildcats this season, totalling 6+18=24 with 15 PIM.
+</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>28-1-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="25"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Lopez</a> reaches career high !</font></td>
  </tr>
  <tr>
