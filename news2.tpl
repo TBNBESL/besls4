@@ -1,5 +1,63 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>20-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="77"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Zanarkand Abes</a> speaks up.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="77"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Zanarkand Abes</a> is disappointed in the team tactics after averaging 10 minutes in the last five games. He wants more icetime.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>20-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="181"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Fredd Da Silva</a> reaches career high !</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="181"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Fredd Da Silva</a> marked a new career high in assists with 12 assists after assisting in tonights game against Michigan Superiors on a goal by <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="244"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jon Rowson</a>. <i>For me this is dream come true</i>, he said after the game.<br><br> A native of Canada, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="181"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Fredd Da Silva</a>, was originally signed as a free agent to the NHL. He has appeared in 279 NHL games during his career, notching 21 goals and adding 38 assists along with 116 penalty minutes. The 25 year old center has played 49 games with the Denver Wildcats this season, totalling 7+12=19 with 32 PIM.
+</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>20-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="36"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Toulouse Lautrec</a> reaches career high !</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="36"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Toulouse Lautrec</a> marked a new career high in points with 18 after scoring in tonights game against Michigan Superiors on a feed by <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="29"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tony Nielsen</a>. <i>I've seen my idols break records and now I am doing the same</i>, he said after the game.<br><br> A native of France, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="36"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Toulouse Lautrec</a>, was originally signed as a free agent to the NHL. He has appeared in 310 NHL games during his career, notching 9 goals and adding 78 assists along with 117 penalty minutes. The 24 year old defenseman has played 49 games with the Denver Wildcats this season, totalling 1+17=18 with 53 PIM.
+</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>20-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="39"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Hodgson</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Jason Hodgson of Golden Summits suffered  injury during tonights minorleague game against the Duluth Northerners.
+
+He is expected to be sidelined for a couple of days . <i>If it was up to me I would have finished the game, but they want to be careful about this kind of injury</i>, he said while limping toward the dressing room.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>19-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="77"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Zanarkand Abes</a> speaks up.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="77"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Zanarkand Abes</a> is disappointed in the team tactics after averaging 10 minutes in the last five games. He wants more icetime.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>19-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2390"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ryan Spiller</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Denver Wildcats</a> defenseman <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2390"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ryan Spiller</a> feels frustrated about his position in the organization. He feels he's good enough to be a core player for the team and wonders why the organization still considers him a regular player.<br><br> A native of USA, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2390"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ryan Spiller</a>, was originally signed as a free agent to the NHL. He has appeared in 170 NHL games during his career, notching 32 goals and adding 72 assists along with 178 penalty minutes. The 24 year old defenseman has played 44 games with the Denver Wildcats this season, totalling 2+12=14 with 73 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>18-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="36"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Toulouse Lautrec</a> reaches career high !</font></td>
  </tr>
  <tr>
