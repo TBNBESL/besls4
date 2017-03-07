@@ -1,5 +1,14 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>11-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="271"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baker</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T11"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Michigan Superiors</a> defenseman <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="271"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baker</a> feels frustrated about his position in the organization. He feels he's good enough to be a core player for the team and wonders why the organization still considers him a regular player.<br><br> A native of Canada, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="271"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Baker</a>, was originally signed as a free agent to the NHL. He has appeared in 165 NHL games during his career, notching 6 goals and adding 18 assists along with 2 penalty minutes. The 25 year old defenseman has played 9 games with the Michigan Superiors this season, totalling 0+2=2 with 0 PIM. He has also played 45 games with the Duluth Northerners this season, totalling 8+23=31 with 40 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>5-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Player of the week: <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="16"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Cody Litwiler</a> (C)</font></td>
  </tr>
  <tr>
