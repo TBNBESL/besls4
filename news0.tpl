@@ -1,5 +1,47 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>26-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Player of the week: <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="31"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Sherris</a> (C)</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\8.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>NHL has awarded <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="31"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Sherris</a> (C) of <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Denver Wildcats</a> as Player Of The Week
+
+He registered 1 goals and 3 assists for 4 points in 3 games last week.
+
+He also had 1 game winning goal.<br><br> A native of Canada, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="31"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Sherris</a>, was originally signed as a free agent to the NHL. He has appeared in 316 NHL games during his career, notching 99 goals and adding 131 assists along with 79 penalty minutes. The 24 year old center has played 54 games with the Denver Wildcats this season, totalling 24+34=58 with 20 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>26-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>League suspends <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="201"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Shane Kelley</a></font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>The league board has suspended <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T2"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Denver Wildcats</a> player <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="201"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Shane Kelley</a> for 4 games for injuring <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="221"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Kinney</a> of <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T10"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Quebec Voyageurs</a>.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>26-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="221"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Kinney</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="221"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Kinney</a> (QUE) suffered chest injury during the game in an incident with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="201"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Shane Kelley</a> (DEN).
+
+He is expected to be sidelined for almost half a year. <i>Very disappointing, that is all I can say</i>, he said when he was taken off the ice.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>25-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>World Championships quarterfinals</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>World Championships have reached quarterfinal stage. Here are the final standings for the starting groups.<br><font face="" size=1><table width=90% font size=-1><tr><td><font size=1><b>Group A</b></td><td><font size=1><b>PTS</b></td><td><font size=1><b>GF</b></td><td><font size=1><b>GA</b></td><td><font size=1><b>Group B</b></td><td><font size=1><b>PTS</b></td><td><font size=1><b>GF</b></td><td><font size=1><b>GA</b></td></tr><tr><td><font size=1>Canada</td><td><font size=1>6</td><td><font size=1>20</td><td><font size=1>7</td><td><font size=1>USA</td><td><font size=1>6</td><td><font size=1>17</td><td><font size=1>7</td></tr><tr><td><font size=1>Germany</td><td><font size=1>2</td><td><font size=1>13</td><td><font size=1>16</td><td><font size=1>Finland</td><td><font size=1>4</td><td><font size=1>15</td><td><font size=1>12</td></tr><tr><td><font size=1>Switzerland</td><td><font size=1>2</td><td><font size=1>12</td><td><font size=1>16</td><td><font size=1>Austria</td><td><font size=1>2</td><td><font size=1>11</td><td><font size=1>14</td></tr><tr><td><font size=1>Slovenia</td><td><font size=1>2</td><td><font size=1>11</td><td><font size=1>17</td><td><font size=1>Italy</td><td><font size=1>0</td><td><font size=1>8</td><td><font size=1>18</td></tr><td><font size=1><b>Group C</b></td><td><font size=1><b>PTS</b></td><td><font size=1><b>GF</b></td><td><font size=1><b>GA</b></td><td><font size=1><b>Group D</b></td><td><font size=1><b>PTS</b></td><td><font size=1><b>GF</b></td><td><font size=1><b>GA</b></td></tr><tr><td><font size=1>Sweden</td><td><font size=1>6</td><td><font size=1>18</td><td><font size=1>9</td><td><font size=1>Russia</td><td><font size=1>6</td><td><font size=1>18</td><td><font size=1>8</td></tr><tr><td><font size=1>Czech</td><td><font size=1>4</td><td><font size=1>15</td><td><font size=1>12</td><td><font size=1>Latvia</td><td><font size=1>4</td><td><font size=1>13</td><td><font size=1>12</td></tr><tr><td><font size=1>Japan</td><td><font size=1>2</td><td><font size=1>12</td><td><font size=1>15</td><td><font size=1>Slovakia</td><td><font size=1>2</td><td><font size=1>12</td><td><font size=1>15</td></tr><tr><td><font size=1>Ukraine</td><td><font size=1>0</td><td><font size=1>9</td><td><font size=1>18</td><td><font size=1>Norway</td><td><font size=1>0</td><td><font size=1>8</td><td><font size=1>16</td></tr></table></font><br>For quarterfinals, the pairs are:<br><br>Canada-Latvia<br>Russia-Germany<br>USA-Czech<br>Sweden-Finland<br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>25-4-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>NHL nominates players for NHL Awards</font></td>
  </tr>
  <tr>
